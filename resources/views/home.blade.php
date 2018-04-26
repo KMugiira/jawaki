@@ -5,15 +5,6 @@
 @section('content')
 
 
-        <!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns#">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://jawakiproperty.com/xmlrpc.php">
-
-    <title>home - Jawaki property</title>
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
     <link rel="canonical" href="http://jawakiproperty.com/" />
@@ -231,14 +222,14 @@
         <div id="slideshow" class="header-slider" data-speed="0" data-mobileslider="responsive">
             <div class="slides-container">
 
-                <div class="slide-item slide-item-1" style="background-image:url('/home/kevinm/PhpstormProjects/Jawak/public/asset/images/2018/01/real-estate-e1516612768994.jpg');">
-                    <img class="mobile-slide preserve" src="{{asset('asset/images/2018/01/real-estate-e1516612768994.jpg')}}" alt=""/>
+                <div class="slide-item slide-item-1" style="background-image:url('asset/images/real-estate-e1516612768994.jpg');">
+                    <img class="mobile-slide preserve" src="{{asset('asset/images/real-estate-e1516612768994.jpg')}}" alt=""/>
                     <div class="slide-inner">
                         <div class="contain animated fadeInRightBig text-slider">
                             <h2 class="maintitle">Looking for a property?</h2>
                             <p class="subtitle">Find your dream property now!</p>
                         </div>
-                        <a href="http://jawakiproperty.com/login/" class="roll-button button-slider">Get started now</a>                    </div>
+                        <a href="{{url('login')}}" class="roll-button button-slider">Get started now</a>                    </div>
                 </div>
 
             </div>
@@ -248,7 +239,7 @@
                     <h2 class="maintitle">Looking for a property?</h2>
                     <p class="subtitle">Find your dream property now!</p>
                 </div>
-                <a href="http://jawakiproperty.com/login/" class="roll-button button-slider">Get started now</a>    </div>
+                <a href="{{url('login')}}" class="roll-button button-slider">Get started now</a>    </div>
         </div>
 
         <div class="header-image">
@@ -407,9 +398,9 @@
 
                                                             <section id="grid-content" class="search-results">
                                                                 <div class="loader text-center margin-bottom" style="display:none;margin-top:20px;">
-                                                                    <img src="http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/images/ajax-loader.gif" alt="Loading...">
+                                                                    <img src="{{asset('asset/images/2018/03/1-1-2.jpg')}}" alt="Loading...">
                                                                 </div>
-                                                                <div class="searched-proerpties">
+                                                                <div class="searched-properties">
                                                                 </div>
                                                             </section>
                                                         </div><div class="ich-settings-main-wrap"><div class="row"><div id="property-385" class="col-sm-3 post-385 rem_property type-rem_property status-publish hentry""><div class="landz-box-property box-grid">
@@ -431,7 +422,7 @@
                                                                 </div></div><div id="property-394" class="col-sm-3 post-394 rem_property type-rem_property status-publish has-post-thumbnail hentry""><div class="landz-box-property box-grid">
                                                                 <a target="" class="hover-effect image image-fill" href="{{url('login')}}">
                                                                     <span class="cover"></span>
-                                                                    <img width="448" height="299" src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1.jpg" class="img-responsive wp-post-image" alt="" data-pid="394" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />		<h3 class="title">Kwa murage bypass</h3>
+                                                                    <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5375-1.jpg')}}" class="img-responsive wp-post-image" alt="" data-pid="394" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />		<h3 class="title">Kwa murage bypass</h3>
                                                                 </a>
                                                                 <span class="price"><span class="rem-price-amount"><span class="rem-currency-symbol">KSh</span>0.00</span></span>
                                                                 <span class="address"><i class="fa fa-map-marker"></i> juja farm</span>

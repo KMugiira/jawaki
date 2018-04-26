@@ -288,7 +288,7 @@
 
                             <article id="post-19" class="post-19 page type-page status-publish hentry">
                                 <header class="entry-header">
-                                    <h1 class="title-post entry-title">contacts</h1>	</header><!-- .entry-header -->
+                                    <h1 class="title-post entry-title">Contact us</h1>	</header><!-- .entry-header -->
 
                                 <div class="entry-content">
                                     <div id="pl-19"  class="panel-layout" ><div id="pg-19-0"  class="panel-grid panel-has-style" ><div style="padding: 0px 0; " data-overlay="true" data-overlay-color="#000000" class="panel-row-style panel-row-style-for-19-0" ><div id="pgc-19-0-0"  class="panel-grid-cell" ><div id="panel-19-0-0-0" class="so-panel widget widget_sow-editor panel-first-child panel-last-child" data-index="0" ><div style="text-align: left;" data-title-color="#443f3f" data-headings-color="#443f3f" class="panel-widget-style panel-widget-style-for-19-0-0-0" ><div class="so-widget-sow-editor so-widget-sow-editor-base">

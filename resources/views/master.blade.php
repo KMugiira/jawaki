@@ -201,7 +201,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-8 col-xs-12">
-                        <a href="http://jawakiproperty.com/" title="Jawaki property"><img class="site-logo" src="http://jawakiproperty.com/wp-content/uploads/2018/03/20545152_659623687576805_6660365032157946050_o-Copy-1.jpg" alt="Jawaki property" /></a>
+                        <a href="http://jawakiproperty.com/" title="Jawaki property"><img class="site-logo" src="{{asset('asset/images/2018/03/20545152_659623687576805_6660365032157946050_o-Copy-1.jpg')}}" alt="Jawaki property" /></a>
                     </div>
                     <div class="col-md-8 col-sm-4 col-xs-12">
                         <div class="btn-menu"></div>

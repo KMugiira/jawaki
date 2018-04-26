@@ -374,12 +374,16 @@
 
 
                                 <div class="fotorama" data-width="100%" data-fit="cover" data-max-width="100%" data-nav="thumbs" data-transition="flip">
-                                    <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" class="attachment-full size-full wp-post-image" alt="" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />                <img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5483.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5484.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5485.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5486.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5487.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg">            </div>
+                                    <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" class="attachment-full size-full wp-post-image" alt="" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />                <img src="{{asset('asset/images/2018/03/IMG_5483.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5484.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5485.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5486.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5487.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}">            </div>
                                 <div class="section-title line-style">
                                     <h3 class="title">Kwa Murage Bypass</h3>
                                 </div>
                                 <div class="description">
+                                    50 by 100 plots with ready title deeds
 
+                                    The plots are 50m from the proposed Great Eastern bypass connecting the three major roads i.e Mombasa road,Kangundo road,Garissa road.
+
+                                    The roads are all weather and water and electricity is on the site.
                                     <p>50 by 100 fully serviced plots with ready title deeds.</p>
                                     <p>The plots are 50m from the proposed Great Eastern bypass connecting the three major roads i.e Mombasa road,Kangundo road,Garissa road.</p>
                                     <p>The roads are all weather and water and electricity is on the site.</p>

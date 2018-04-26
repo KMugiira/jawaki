@@ -8,15 +8,6 @@
 
 
 <!--New Login-->
-    <!DOCTYPE html>
-    <html lang="en-US" prefix="og: http://ogp.me/ns#">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="profile" href="http://gmpg.org/xfn/11">
-        <link rel="pingback" href="http://jawakiproperty.com/xmlrpc.php">
-
-        <title>Login - Jawaki property</title>
 
         <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
         <link rel="canonical" href="http://jawakiproperty.com/home/login/" />
@@ -242,7 +233,7 @@
         <div class="header-clone"></div>
 
 
-        <header id="masthead" class="site-header" role="banner">
+     <!--   <header id="masthead" class="site-header" role="banner">
             <div class="header-wrap">
                 <div class="container">
                     <div class="row">
