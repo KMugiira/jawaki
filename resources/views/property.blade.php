@@ -483,6 +483,8 @@
                                 <div class="landz-box-property box-grid">
                                     <a target="" class="hover-effect image image-fill" href="{{url('gwakairu')}}">
                                         <span class="cover"></span>
+                                        <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5479-1.jpg')}}" class="img-responsive wp-post-image" alt="" data-pid="453" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />		<h3 class="title">Murera Magomano</h3>
+
                                         <h3 class="title">Gwa kairu(K.u Ruiru campus)</h3>
                                     </a>
                                     <span class="price"><span class="rem-price-amount"><span class="rem-currency-symbol">KSh</span>0.00</span></span>
@@ -661,12 +663,31 @@
                                         <a target="" class="btn btn-default" href="{{url('kwamurage')}}">Details</a>
                                     </div>
                                 </div>					</div>
+                            <div style="padding:10px;">
+                                <div class="landz-box-property box-grid">
+                                    <a target="" class="hover-effect image image-fill" href="{{url('mwireri')}}">
+                                        <span class="cover"></span>
+                                        <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5375-1.jpg')}}" class="img-responsive wp-post-image" alt="" data-pid="394" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5375-1-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />		<h3 class="title">Mwireri</h3>
+                                    </a>
+                                    <span class="price"><span class="rem-price-amount"><span class="rem-currency-symbol">KSh</span>0.00</span></span>
+                                    <span class="address"><i class="fa fa-map-marker"></i> City area</span>
+                                    <span class="description">Mwireri 40 by 80 plots on sale</span>
+
+                                    <dl class="detail">
+                                        <dt class="area">:</dt><dd><span>5000 square meters</span></dd>
+                                    </dl>
+
+                                    <div class="footer">
+                                        <a target="" class="btn btn-default" href="{{url('mwireri')}}">Details</a>
+                                    </div>
+                                </div>					</div>
                         </section>
 
 
 
 
                     </div><!-- ./container -->
+                    </div>
                 </section>
             </div>
         </div>
@@ -676,64 +697,7 @@
 
 
 
-    <div id="sidebar-footer" class="footer-widgets widget-area" role="complementary">
-        <div class="container">
-            <div class="sidebar-column col-md-12">
-                <aside id="sow-social-media-buttons-2" class="widget widget_sow-social-media-buttons"><div class="so-widget-sow-social-media-buttons so-widget-sow-social-media-buttons-flat-012f80f3c4ef">
-                        <div class="social-media-button-container">
-
-                            <a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="Jawaki property on Facebook" aria-label="Jawaki property on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/326204164458175/about/" >
-			<span>
-								<span class="sow-icon-fontawesome" data-sow-icon="&#xf09a;" ></span>							</span>
-                            </a>
-
-                            <a class="ow-button-hover sow-social-media-button-twitter sow-social-media-button" title="Jawaki property on Twitter" aria-label="Jawaki property on Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/@jawaki_property/" >
-			<span>
-								<span class="sow-icon-fontawesome" data-sow-icon="&#xf099;" ></span>							</span>
-                            </a>
-
-                            <a class="ow-button-hover sow-social-media-button-google-plus sow-social-media-button" title="Jawaki property on Google Plus" aria-label="Jawaki property on Google Plus" target="_blank" rel="noopener noreferrer" href="https://plus.google.com/" >
-			<span>
-								<span class="sow-icon-fontawesome" data-sow-icon="&#xf0d5;" ></span>							</span>
-                            </a>
-
-                            <a class="ow-button-hover sow-social-media-button-instagram sow-social-media-button" title="Jawaki property on Instagram" aria-label="Jawaki property on Instagram" target="_blank" rel="noopener noreferrer" href="https://instagram.com/" >
-			<span>
-								<span class="sow-icon-fontawesome" data-sow-icon="&#xf16d;" ></span>							</span>
-                            </a>
-                        </div>
-                    </div></aside><aside id="email-subscribers-6" class="widget widget_text elp-widget">
-                    <div>
-                        <form class="es_widget_form" data-es_form_id="es_widget_form">
-                            <div class="es_lablebox"><label class="es_widget_form_email">Email *</label></div>
-                            <div class="es_textbox">
-                                <input type="email" id="es_txt_email" class="es_textbox_class" name="es_txt_email"  value="" maxlength="40" required>
-                            </div>
-                            <div class="es_button">
-                                <input type="submit" id="es_txt_button" class="es_textbox_button es_submit_button" name="es_txt_button" value="Subscribe">
-                            </div>
-                            <div class="es_msg" id="es_widget_msg">
-                                <span id="es_msg"></span>
-                            </div>
-                            <input type="hidden" id="es_txt_name" name="es_txt_name" value="">
-                            <input type="hidden" id="es_txt_group" name="es_txt_group" value="Public">
-                            <input type="hidden" name="es-subscribe" id="es-subscribe" value="16904ffc3f"/>
-                        </form>
-                    </div>
-                </aside><aside id="sydney_contact_info-3" class="widget sydney_contact_info_widget"><h3 class="widget-title">Our contacts</h3><div class="contact-address"><span><i class="fa fa-home"></i></span>Jawaki Properties &amp; developers co. Ltd. C.K Business center, ground floor Ruiru-kamiti road, ruiru town P.O Box 1131-00232  Ruiru, Kenya</div><div class="contact-phone"><span><i class="fa fa-phone"></i></span>0720339861/0720407099</div><div class="contact-email"><span><i class="fa fa-envelope"></i></span><a href="mailto:jaw&#97;&#107;&#105;p&#114;&#111;&#112;&#101;rtie&#115;&#99;&#111;&#64;gmail&#46;com">jaw&#97;&#107;&#105;p&#114;&#111;&#112;&#101;rtie&#115;&#99;&#111;&#64;gmail&#46;com</a></div></aside>				</div>
-
-
-
-
-        </div>
-    </div>
-    <a class="go-top"><i class="fa fa-angle-up"></i></a>
-
-    <footer id="colophon" class="site-footer" role="contentinfo">
-        <div class="site-info container">
-            <center><p>Copyight&copy;2018.All Rights Reserved.</p></center>
-        </div><!-- .site-info -->
-    </footer><!-- #colophon -->
+  <!-- #colophon -->
 
 
 </div><!-- #page -->

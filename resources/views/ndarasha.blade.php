@@ -365,7 +365,7 @@
 
 
                                 <div class="fotorama" data-width="100%" data-fit="cover" data-max-width="100%" data-nav="thumbs" data-transition="flip">
-                                    <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" class="attachment-full size-full wp-post-image" alt="" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />                <img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5483.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5484.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5485.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5486.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5487.jpg"><img src="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg">            </div>
+                                    <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" class="attachment-full size-full wp-post-image" alt="" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />                <img src="{{asset('asset/images/2018/03/IMG_5483.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5484.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5485.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5486.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5487.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}">            </div>
                                 <div class="section-title line-style">
                                     <h3 class="title">Ndarasha Plots</h3>
                                 </div>
@@ -546,9 +546,9 @@
                                                         </div>
                                                         <div class="ptsEl ptsCol ptsElWithArea ptsCol-2" data-el="table_col" style="height: auto; width: 25%;">
                                                             <div class="ptsTableElementContent ptsElArea">
-                                                                <div class="ptsCell" style="height: 70px;">
+                                                                <!--<div class="ptsCell" style="height: 70px;">
                                                                     <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">text</span></p></div>
-                                                                </div>
+                                                                </div>-->
                                                                 <div class="ptsColDesc ptsToggle" style="height: 86px;">
                                                                     <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Ndarasha 2 - 200,000/=&nbsp;</span></p></div>
                                                                 </div>
@@ -572,9 +572,9 @@
                                                         </div>
                                                         <div class="ptsEl ptsCol ptsElWithArea ptsCol-3" data-el="table_col" style="height: auto; width: 25%;" data-enb-color="0">
                                                             <div class="ptsTableElementContent ptsElArea">
-                                                                <div class="ptsCell" style="height: 70px;">
+                                                                <!--<div class="ptsCell" style="height: 70px;">
                                                                     <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br data-mce-bogus="1"></p></div>
-                                                                </div>
+                                                                </div>-->
                                                                 <div class="ptsColDesc ptsToggle" style="height: 86px;">
                                                                     <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Ndarasha 3- 200,000/=</span></p></div>
                                                                 </div>
@@ -604,9 +604,9 @@
                                                                 <div class="ptsColHeader ptsCell" style="height: 70px;">
 
                                                                 </div>
-                                                                <div class="ptsColDesc ptsToggle" style="height: 86px;">
+                                                                <!--<div class="ptsColDesc ptsToggle" style="height: 86px;">
                                                                     <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Ndarasha 4 - 200,000/=&nbsp;</span></p></div>
-                                                                </div>
+                                                                </div>-->
                                                                 <div class="ptsRows ui-sortable" style="height: auto;">
 
                                                                 </div>
