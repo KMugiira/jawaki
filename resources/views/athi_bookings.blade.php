@@ -4,7 +4,7 @@
 
 @section('content')
 
-        <!DOCTYPE html>
+ <!--       <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,7 @@
     <title>Athi Bookings - Jawaki property</title>
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/home/login/property/athi-bookings/" />
+    <!--<link rel="canonical" href="http://jawakiproperty.com/home/login/property/athi-bookings/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Athi Bookings - Jawaki property" />
@@ -37,7 +37,7 @@
     <link rel='dns-prefetch' href='//s.w.org' />
     <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Feed" href="http://jawakiproperty.com/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Comments Feed" href="http://jawakiproperty.com/comments/feed/" />
-    <!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+    <!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/
     <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
     <!-- No UA code set -->
     <!-- / Google Analytics by MonsterInsights -->
@@ -240,7 +240,7 @@
     <div class="header-clone"></div>
 
 
-    <header id="masthead" class="site-header" role="banner">
+ <!--   <header id="masthead" class="site-header" role="banner">
         <div class="header-wrap">
             <div class="container">
                 <div class="row">
@@ -283,7 +283,9 @@
                         <article id="post-771" class="post-771 page type-page status-publish has-post-thumbnail hentry">
                             <header class="entry-header">
                                 <h1 class="title-post entry-title">Athi Bookings</h1>	</header><!-- .entry-header -->
-
+                            <div class="row">
+                                <img src="{{asset('asset/images/2018/03/IMG_5377.jpg')}}" alt="Plot Layout" width="400" height="200">
+                            </div>
                             <div class="entry-content">
                                 <p>&nbsp;</p>
                                 <p>&nbsp;</p>
@@ -299,8 +301,8 @@
                                         <p>40 by 80 plots with ready title deeds.</p>
                                         <p>The plots are near athi shopping centre where government e.g schools,hospitals and&nbsp; police post are located.</p>
                                         <p>The roads are all weather and they can be accessed using public transport(matatus).</p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="Jawaki Bookings1">Book Now</a></p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/athi_1/#">Download Title Deed</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="{{url('jawaki_bookings')}}">Book Now</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/athi_1/#">Download Title Deed (Recommended)</a></p>
                                     </div>
                                 </article>
                                 <p>&nbsp;<br />

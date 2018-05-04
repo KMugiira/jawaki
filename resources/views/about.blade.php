@@ -15,12 +15,12 @@
     <title>about us - Jawaki property</title>-->
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/about-us/" />
+    <!--<link rel="canonical" href="http://jawakiproperty.com/about-us/" />-->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="about us - Jawaki property" />
     <meta property="og:description" content="Jawaki Properties &amp; Developers Co. Limited is wholly Kenyan- owned real estate Company that was founded in 2005. Since its foundation in 2005, Jawaki properties have become identical in sale, development and management of properties in Kenya. Our core business is to identify and source for land and properties that are valuable to suit our &hellip;" />
-    <meta property="og:url" content="http://jawakiproperty.com/about-us/" />
+    <!--<meta property="og:url" content="http://jawakiproperty.com/about-us/" />-->
     <meta property="og:site_name" content="Jawaki property" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="Jawaki Properties &amp; Developers Co. Limited is wholly Kenyan- owned real estate Company that was founded in 2005. Since its foundation in 2005, Jawaki properties have become identical in sale, development and management of properties in Kenya. Our core business is to identify and source for land and properties that are valuable to suit our [&hellip;]" />
@@ -137,7 +137,7 @@
     <!--[if lte IE 9]>
     <link rel='stylesheet' id='sydney-ie9-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.5' type='text/css' media='all' />
     <![endif]-->
-    <link rel='stylesheet' id='slb_core-css'  href='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
+    <!--<link rel='stylesheet' id='slb_core-css'  href='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
     <link rel='stylesheet' id='forget-about-shortcode-buttons-css'  href='http://jawakiproperty.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.1' type='text/css' media='all' />
     <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
     <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
@@ -176,7 +176,7 @@
         var mb_ajax = {"ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/maxbuttons/js/min/front.js?ver=7.1'></script>
+    <!--<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/maxbuttons/js/min/front.js?ver=7.1'></script>
     <link rel='https://api.w.org/' href='http://jawakiproperty.com/wp-json/' />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jawakiproperty.com/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://jawakiproperty.com/wp-includes/wlwmanifest.xml" />
@@ -259,12 +259,12 @@
     </header><!-- #masthead -->
 
 
-    <div class="sydney-hero-area">
+    <!--<div class="sydney-hero-area">
         <div class="header-image">
             <div class="overlay"></div>			<img class="header-inner" src="http://jawakiproperty.com/wp-content/themes/sydney/images/header.jpg" width="1920" alt="Jawaki property" title="Jawaki property">
         </div>
 
-    </div>
+    </div>-->
 
 
     <div id="content" class="page-wrap">
@@ -359,7 +359,7 @@
 
 
 
-<script type="text/javascript" src="//go.onclasrv.com/apu.php?zoneid=1622486"></script>
+<!--<script type="text/javascript" src="//go.onclasrv.com/apu.php?zoneid=1622486"></script>
 <script async="async" type="text/javascript" src="//go.mobisla.com/notice.php?p=1622489&interactive=1&pushup=1"></script>
 
 <link rel='stylesheet' id='sow-social-media-buttons-flat-012f80f3c4ef-css'  href='http://jawakiproperty.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-012f80f3c4ef.css?ver=4.9.5' type='text/css' media='all' />
@@ -373,25 +373,25 @@
     /* <![CDATA[ */
     var wpcf7 = {"apiSettings":{"root":"http:\/\/jawakiproperty.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
     /* ]]> */
-</script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+</script>-->
+<script type='text/javascript' src='{{asset('asset/js/scripts.js?ver=5.0.1')}}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var es_widget_notices = {"es_email_notice":"Please enter email address","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Kindly check your mailbox and confirm your subscription. If you don't see the email within a few minutes, check the spam\/junk folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_ajax_url":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget.js?ver=4.9.5'></script>
+<script type='text/javascript' src='{{asset('asset/js/es-widget.js?ver=4.9.5')}}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var es_widget_page_notices = {"es_email_notice":"Please enter email address","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Kindly check your mailbox and confirm your subscription. If you don't see the email within a few minutes, check the spam\/junk folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_ajax_url":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget-page.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/scripts/jquery.finalTilesGallery.js?ver=3.3.37'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/scripts.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/main.min.js?ver=20180213'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
+<script type='text/javascript' src='{{asset('asset/js/es-widget-page.js?ver=4.9.5')}}'></script>
+<script type='text/javascript' src='{{asset('asset/script/jquery.finalTilesGallery.js?ver=3.3.37')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/scripts.js?ver=4.9.5')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/main.min.js?ver=20180213')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/skip-link-focus-fix.js?ver=20130115')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/wp-embed.min.js?ver=4.9.5')}}'></script>
 <script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
 
 </body>

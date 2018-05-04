@@ -4,7 +4,7 @@
 
 @section('content')
 
-        <!DOCTYPE html>
+ <!--       <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="UTF-8">
@@ -15,21 +15,7 @@
     <title>Ndarasha Plots Bookings - Jawaki property</title>
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/home/login/property/ndarasha-plots-bookings/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Ndarasha Plots Bookings - Jawaki property" />
-    <meta property="og:description" content="&nbsp; Location Endarasha Categories Booking Buying 40 by 60&nbsp; fully serviced plots with ready title deeds. The area is very developed and well populated. Book Now Download Title Deed &nbsp; Leave a Reply Comment&nbsp;" />
-    <meta property="og:url" content="http://jawakiproperty.com/home/login/property/ndarasha-plots-bookings/" />
-    <meta property="og:site_name" content="Jawaki property" />
-    <meta property="og:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5427.jpg" />
-    <meta property="og:image:width" content="448" />
-    <meta property="og:image:height" content="299" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="&nbsp; Location Endarasha Categories Booking Buying 40 by 60&nbsp; fully serviced plots with ready title deeds. The area is very developed and well populated. Book Now Download Title Deed &nbsp; Leave a Reply Comment&nbsp;" />
-    <meta name="twitter:title" content="Ndarasha Plots Bookings - Jawaki property" />
-    <meta name="twitter:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5427.jpg" />
-    <!-- / Yoast SEO plugin. -->
+
 
     <link rel='dns-prefetch' href='//maps.googleapis.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
@@ -240,7 +226,7 @@
     <div class="header-clone"></div>
 
 
-    <header id="masthead" class="site-header" role="banner">
+   <!-- <header id="masthead" class="site-header" role="banner">
         <div class="header-wrap">
             <div class="container">
                 <div class="row">
@@ -278,12 +264,11 @@
                 <div id="primary" class="content-area col-md-9">
                     <main id="main" class="post-wrap" role="main">
 
-
-
-                        <article id="post-780" class="post-780 page type-page status-publish has-post-thumbnail hentry">
                             <header class="entry-header">
                                 <h1 class="title-post entry-title">Ndarasha Plots Bookings</h1>	</header><!-- .entry-header -->
-
+                            <div class="row">
+                                <img src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" alt="Plot Layout" width="400" height="200">
+                            </div>
                             <div class="entry-content">
                                 <article id="post-722" class="post-722 event type-event status-publish has-post-thumbnail hentry event-categories-booking event-categories-buying">
                                     <header class="entry-header"></header>
@@ -293,13 +278,13 @@
                                             <a href="http://jawakiproperties.com/Endarasha/">Endarasha</a></p>
                                         <p><strong>Categories</strong></p>
                                         <ul class="event-categories">
-                                            <li><a href="http://jawakiproperty.com/events/categories/booking/">Booking</a></li>
-                                            <li><a href="http://jawakiproperty.com/events/categories/buying/">Buying</a></li>
+                                            <li><a href="{{url('jawaki_bookings')}}">Booking</a></li>
+                                            <li><a href="{{url('shop')}}">Buying</a></li>
                                         </ul>
                                         <p>40 by 60&nbsp; fully serviced plots with ready title deeds.</p>
                                         <p>The area is very developed and well populated.</p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="Jawaki Bookings4">Book Now</a></p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/np/#">Download Title Deed</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="{{url('jawaki_bookings')}}">Book Now</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/np/#">Download Title Deed (Recommended)</a></p>
                                     </div>
                                 </article>
                                 <p>&nbsp;</p>

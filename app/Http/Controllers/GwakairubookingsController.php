@@ -13,7 +13,7 @@ class GwakairubookingsController extends Controller
      */
     public function index()
     {
-        //
+        return view('gwa_kairu_bookings');
     }
 
     /**

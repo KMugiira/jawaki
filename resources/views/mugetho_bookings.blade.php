@@ -4,32 +4,6 @@
 
 @section('content')
 
-        <!DOCTYPE html>
-<html lang="en-US" prefix="og: http://ogp.me/ns#">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://jawakiproperty.com/xmlrpc.php">
-
-    <title>Bypass Mugetho Bookings - Jawaki property</title>
-
-    <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/home/login/property/bypass-mugetho-bookings/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Bypass Mugetho Bookings - Jawaki property" />
-    <meta property="og:description" content="&nbsp; Location Eastern Bypass Categories Booking Buying 40 by 80 plots with ready title deeds. The plots are 100 metres from the proposed Great Eastern Bypass. The roads are all weather and water and electricity is on the site. Book Now Download Title Deed Leave a Reply Comment&nbsp;" />
-    <meta property="og:url" content="http://jawakiproperty.com/home/login/property/bypass-mugetho-bookings/" />
-    <meta property="og:site_name" content="Jawaki property" />
-    <meta property="og:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5459.jpg" />
-    <meta property="og:image:width" content="448" />
-    <meta property="og:image:height" content="299" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="&nbsp; Location Eastern Bypass Categories Booking Buying 40 by 80 plots with ready title deeds. The plots are 100 metres from the proposed Great Eastern Bypass. The roads are all weather and water and electricity is on the site. Book Now Download Title Deed Leave a Reply Comment&nbsp;" />
-    <meta name="twitter:title" content="Bypass Mugetho Bookings - Jawaki property" />
-    <meta name="twitter:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5459.jpg" />
-    <!-- / Yoast SEO plugin. -->
 
     <link rel='dns-prefetch' href='//maps.googleapis.com' />
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
@@ -240,7 +214,7 @@
     <div class="header-clone"></div>
 
 
-    <header id="masthead" class="site-header" role="banner">
+   <!-- <header id="masthead" class="site-header" role="banner">
         <div class="header-wrap">
             <div class="container">
                 <div class="row">
@@ -284,6 +258,9 @@
                             <header class="entry-header">
                                 <h1 class="title-post entry-title">Bypass Mugetho Bookings</h1>	</header><!-- .entry-header -->
 
+                            <div class="row">
+                                <img src="{{asset('asset/images/2018/03/IMG_5460.jpg')}}" alt="Plot Layout" width="400" height="200">
+                            </div>
                             <div class="entry-content">
                                 <article id="post-720" class="post-720 event type-event status-publish has-post-thumbnail hentry event-categories-booking event-categories-buying">
                                     <header class="entry-header"></header>
@@ -293,14 +270,14 @@
                                             <a href="http://jawakiproperty.com/locations/eastern-bypass/">Eastern Bypass</a></p>
                                         <p><strong>Categories</strong></p>
                                         <ul class="event-categories">
-                                            <li><a href="http://jawakiproperty.com/events/categories/booking/">Booking</a></li>
-                                            <li><a href="http://jawakiproperty.com/events/categories/buying/">Buying</a></li>
+                                            <li><a href="{{url('jawaki_bookings')}}">Booking</a></li>
+                                            <li><a href="{{url('shop')}}">Buying</a></li>
                                         </ul>
                                         <p>40 by 80 plots with ready title deeds.</p>
                                         <p>The plots are 100 metres from the proposed Great Eastern Bypass.</p>
                                         <p>The roads are all weather and water and electricity is on the site.</p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="Jawaki Bookings2">Book Now</a></p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/bm-2/#">Download Title Deed</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="{{url('jawaki_bookings')}}">Book Now</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/bm-2/#">Download Title Deed (Recommended)</a></p>
                                     </div>
                                 </article>
                                 <p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15956.163793398438!2d37.0015032162809!3d-1.1310519867996476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMcKwMDcnNTEuOCJTIDM3wrAwMCczNi45IkU!5e0!3m2!1sen!2ske!4v1523441598115" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

@@ -5,7 +5,7 @@
 @section('content')
 
 
-        <!DOCTYPE html>
+<!--        <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="UTF-8">
@@ -55,7 +55,7 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='dashicons-css'  href='http://jawakiproperty.com/wp-includes/css/dashicons.min.css?ver=4.9.5' type='text/css' media='all' />
+    <!--<link rel='stylesheet' id='dashicons-css'  href='http://jawakiproperty.com/wp-includes/css/dashicons.min.css?ver=4.9.5' type='text/css' media='all' />
     <link rel='stylesheet' id='theme-my-login-css'  href='http://jawakiproperty.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.10' type='text/css' media='all' />
     <link rel='stylesheet' id='ultimate-tables-style-css'  href='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/css/ultimate-tables.css?ver=4.9.5' type='text/css' media='all' />
     <link rel='stylesheet' id='ultimate-datatables-style-css'  href='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/css/jquery.dataTables.css?ver=4.9.5' type='text/css' media='all' />

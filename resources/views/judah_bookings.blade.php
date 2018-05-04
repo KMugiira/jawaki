@@ -240,7 +240,7 @@
     <div class="header-clone"></div>
 
 
-    <header id="masthead" class="site-header" role="banner">
+ <!--   <header id="masthead" class="site-header" role="banner">
         <div class="header-wrap">
             <div class="container">
                 <div class="row">
@@ -284,24 +284,26 @@
                             <header class="entry-header">
                                 <h1 class="title-post entry-title">Judah Bypass Bookings</h1>	</header><!-- .entry-header -->
 
+                            <div class="row">
+                                <img src="{{asset('asset/images/2018/03/IMG_5429.jpg')}}" alt="Plot Layout" width="400" height="200">
+                            </div>
                             <div class="entry-content">
-                                <article id="post-730" class="post-730 event type-event status-publish has-post-thumbnail hentry event-categories-booking event-categories-buying">
+                                <!--<article id="post-730" class="post-730 event type-event status-publish has-post-thumbnail hentry event-categories-booking event-categories-buying">-->
                                     <header class="entry-header">
-                                        <h1>&nbsp;</h1>
                                         <h1 class="title-post entry-title"><strong style="font-size: 16px;">Location</strong></h1>
                                     </header>
                                     <div class="entry-content">
-                                        <p><a href="http://jawakiproperty.com/locations/judah-bypass/">Judah Bypass</a></p>
+                                        <p><a href="{{url('judah')}}">Judah Bypass</a></p>
                                         <p><strong>Categories</strong></p>
                                         <ul class="event-categories">
-                                            <li><a href="http://jawakiproperty.com/events/categories/booking/">Booking</a></li>
-                                            <li><a href="http://jawakiproperty.com/events/categories/buying/">Buying</a></li>
+                                            <li><a href="{{url('jawaki_bookings')}}">Booking</a></li>
+                                            <li><a href="{{url('shop')}}">Buying</a></li>
                                         </ul>
                                         <p>40 by 60 fully serviced plots with ready title deeds.</p>
                                         <p>The plots are 250 metres from the proposed mini-bypass linking the eastern bypass and thika super highway.</p>
                                         <p>The plots are near Judah shopping center and Kenyatta road estate.</p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="Jawaki Bookings7">Book Now</a></p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/jb/?preview_id=730&amp;preview_nonce=59f293bd51&amp;_thumbnail_id=465&amp;preview=true#">Download Title Deed</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="{{url('jawaki_bookings')}}">Book Now</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/jb/?preview_id=730&amp;preview_nonce=59f293bd51&amp;_thumbnail_id=465&amp;preview=true#">Download Title Deed (Recommended)</a></p>
                                     </div>
                                 </article>
                                 <p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15956.163793398438!2d37.0015032162809!3d-1.1310519867996476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMcKwMDcnNTEuOCJTIDM3wrAwMCczNi45IkU!5e0!3m2!1sen!2ske!4v1523441598115" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

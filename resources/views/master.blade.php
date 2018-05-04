@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link rel="pingback" href="http://jawakiproperty.com/xmlrpc.php">
+    <!--<link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://jawakiproperty.com/xmlrpc.php">-->
 
     <title> Jawaki properties </title>
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/" />
+    <!--<link rel="canonical" href="http://jawakiproperty.com/" />-->
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="home - Jawaki property" />
     <meta property="og:description" content="BOOKINGS REGISTER" />
-    <meta property="og:url" content="http://jawakiproperty.com/" />
+    <!--<meta property="og:url" content="http://jawakiproperty.com/" />-->
     <meta property="og:site_name" content="Jawaki property" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:description" content="BOOKINGS REGISTER" />
@@ -26,7 +26,7 @@
     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
     <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Feed" href="http://jawakiproperty.com/feed/" />
+    <!--<link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Feed" href="http://jawakiproperty.com/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Comments Feed" href="http://jawakiproperty.com/comments/feed/" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
@@ -50,23 +50,23 @@
             padding: 0 !important;
         }
     </style>
-    <link rel='stylesheet' id='dashicons-css'  href='http://jawakiproperty.com/wp-includes/css/dashicons.min.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='theme-my-login-css'  href='http://jawakiproperty.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.10' type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-tables-style-css'  href='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/css/ultimate-tables.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-datatables-style-css'  href='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/css/jquery.dataTables.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpapp-styles-css'  href='http://jawakiproperty.com/wp-content/plugins/wordpress-easy-paypal-payment-or-donation-accept-plugin/wpapp-styles.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpbs-calendar-css'  href='http://jawakiproperty.com/wp-content/plugins/wp-booking-system/css/wpbs-calendar.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='ebp_style-css'  href='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/css/frontend.css?ver=20142209' type='text/css' media='all' />
-    <link rel='stylesheet' id='sydney-bootstrap-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
-    <link rel='stylesheet' id='clean-login-css-css'  href='http://jawakiproperty.com/wp-content/plugins/clean-login/content/style.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='contact-form-7-css'  href='http://jawakiproperty.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='es-widget-css-css'  href='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='events-manager-css'  href='http://jawakiproperty.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.92' type='text/css' media='all' />
-    <link rel='stylesheet' id='finalTilesGallery_stylesheet-css'  href='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/scripts/ftg.css?ver=3.3.37' type='text/css' media='all' />
-    <link rel='stylesheet' id='fontawesome_stylesheet-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='sow-social-media-buttons-flat-f9f58ec69cf0-css'  href='http://jawakiproperty.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-f9f58ec69cf0.css?ver=4.9.5' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashicons-css'  href='{{asset('asset/css/dashicon.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-my-login-css'  href='{{asset('asset/css/theme-my-login.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-tables-style-css'  href='{{asset('asset/css/ultimate-tables.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-datatables-style-css'  href='{{asset('asset/css/jquery.dataTables.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpapp-styles-css'  href='{{asset('asset/css/wpapp-styles.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpbs-calendar-css'  href='{{asset('asset/css/wpbs-calendar.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='ebp_style-css'  href='{{asset('asset/css/frontend.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='sydney-bootstrap-css'  href='{{asset('asset/css/bootstrap/bootstrap.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='clean-login-css-css'  href='{{asset('asset/css/style0.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css'  href='{{asset('asset/css/styles2.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='es-widget-css-css'  href='{{asset('asset/css/es-widget1.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='events-manager-css'  href='{{asset('asset/css/events_manager.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='finalTilesGallery_stylesheet-css'  href='{{asset('asset/script/ftg.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='fontawesome_stylesheet-css'  href='{{asset('asset/css/font-awesome.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='sow-social-media-buttons-flat-f9f58ec69cf0-css'  href='{{asset('asset/css/sow-social-media-buttons-flat-f9f58ec69cf10.css')}}' type='text/css' media='all' />
     <link rel='stylesheet' id='sydney-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A400%2C500%2C600' type='text/css' media='all' />
-    <link rel='stylesheet' id='sydney-style-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/style.css?ver=20180213' type='text/css' media='all' />
+    <link rel='stylesheet' id='sydney-style-css'  href='{{asset('asset/css/style1.css')}}' type='text/css' media='all' />
     <style id='sydney-style-inline-css' type='text/css'>
         .site-header { background-color:rgba(0,0,0,0.9);}
         .site-title { font-size:32px; }
@@ -129,58 +129,58 @@
         }
 
     </style>
-    <link rel='stylesheet' id='sydney-font-awesome-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.5' type='text/css' media='all' />
-    <!--[if lte IE 9]>
-    <link rel='stylesheet' id='sydney-ie9-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.5' type='text/css' media='all' />
-    <![endif]-->
-    <link rel='stylesheet' id='slb_core-css'  href='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='forget-about-shortcode-buttons-css'  href='http://jawakiproperty.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.1' type='text/css' media='all' />
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/wp-booking-system/js/wpbs.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/wp-booking-system/js/custom-select.js?ver=4.9.5'></script>
+    <link rel='stylesheet' id='sydney-font-awesome-css'  href='{{asset('asset/fonts/font-awesome.min.css')}}' type='text/css' media='all' />
+<!--[if lte IE 9]
+    <link rel='stylesheet' id='sydney-ie9-css'  href='{{asset('asset/css/ie9.css?ver=4.9.5.css')}}' type='text/css' media='all' />
+    <!--[endif]-->
+    <link rel='stylesheet' id='slb_core-css'  href='{{asset('asset/css/app.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='forget-about-shortcode-buttons-css'  href='{{asset('asset/css/button-styles.css')}}' type='text/css' media='all' />
+    <script type='text/javascript' src='{{asset('asset/js/jquery.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery-migrate.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/wpbs.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/custom-select.js')}}'></script>
     <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='{{asset('asset/js/core.min.js')}}></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/widget.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/position.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/mouse.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/sortable.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/datepicker.min.js')}}'></script>
     <script type='text/javascript'>
         jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/wp-a11y.min.js?ver=4.9.5'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/menu.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/wp-a11y.min.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='{{asset('asset/js/autocomplete.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/resizable.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/draggable.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/button.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/dialog.min.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var EM = {"ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.92'></script>
+    <script type='text/javascript' src='{{asset('asset/js/events-manager.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var mb_ajax = {"ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/maxbuttons/js/min/front.js?ver=7.1'></script>
-    <link rel='https://api.w.org/' href='http://jawakiproperty.com/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jawakiproperty.com/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://jawakiproperty.com/wp-includes/wlwmanifest.xml" />
+    <script type='text/javascript' src='{{asset('asset/js/front.js')}}'></script>
+    <link rel='https://api.w.org/' href='{{asset('asset/wp-json/')}}' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="{{asset('asset/xmlrpc.php?rsd')}}" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="{{asset('asset/wlwmanifest.xml')}}" />
     <meta name="generator" content="WordPress 4.9.5" />
-    <link rel='shortlink' href='http://jawakiproperty.com/' />
-    <link rel="alternate" type="application/json+oembed" href="http://jawakiproperty.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjawakiproperty.com%2F" />
-    <link rel="alternate" type="text/xml+oembed" href="http://jawakiproperty.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjawakiproperty.com%2F&#038;format=xml" />
-    <script type="text/javascript">var ajaxurl = 'http://jawakiproperty.com/wp-admin/admin-ajax.php';</script>
+    <!--<link rel='shortlink' href='http://jawakiproperty.com/' />-->
+    <link rel="alternate" type="application/json+oembed" href="{{asset('asset/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjawakiproperty.com%2F')}}" />
+    <link rel="alternate" type="text/xml+oembed" href="{{asset('asset/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjawakiproperty.com%2F&#038;format=xml')}}" />
+    <script type="text/javascript">var ajaxurl = '{{asset('asset/wp-admin/admin-ajax.php')}}';</script>
 </head>
 
 <body class="home page-template page-template-page-templates page-template-page_front-page page-template-page-templatespage_front-page-php page page-id-15 page-parent">
@@ -201,14 +201,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-sm-8 col-xs-12">
-                        <a href="http://jawakiproperty.com/" title="Jawaki property"><img class="site-logo" src="{{asset('asset/images/2018/03/20545152_659623687576805_6660365032157946050_o-Copy-1.jpg')}}" alt="Jawaki property" /></a>
+                        <a href="{{url('home')}}" title="Jawaki property"><img class="site-logo" src="{{asset('asset/images/2018/03/20545152_659623687576805_6660365032157946050_o-Copy-1.jpg')}}" alt="Jawaki property" /></a>
                     </div>
                     <div class="col-md-8 col-sm-4 col-xs-12">
                         <div class="btn-menu"></div>
                         <nav id="mainnav" class="mainnav" role="navigation">
                             <div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-15 current_page_item menu-item-36"><a href="{{url('home')}}">home</a></li>
                                     <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="{{url('about')}}">about us</a></li>
-                                    <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="{{url('contact')}}/">contacts</a></li>
+                                    <li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="{{url('contact')}}/">contact us</a></li>
                                     <li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="{{url('blog')}}">blog</a></li>
                                     <li id="menu-item-136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-136"><a href="{{url('register')}}">Register</a></li>
                                     <li id="menu-item-137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-137"><a href="{{url('login')}}">Login</a></li>
@@ -272,74 +272,74 @@
     <!--End new slider-->
 
 
-@yield('content')
+    @yield('content')
 
 
-<div id="sidebar-footer" class="footer-widgets widget-area" role="complementary">
-    <div class="container">
-        <div class="sidebar-column col-md-12">
-            <aside id="sow-social-media-buttons-2" class="widget widget_sow-social-media-buttons"><div class="so-widget-sow-social-media-buttons so-widget-sow-social-media-buttons-flat-012f80f3c4ef">
-                    <div class="social-media-button-container">
+    <div id="sidebar-footer" class="footer-widgets widget-area" role="complementary">
+        <div class="container">
+            <div class="sidebar-column col-md-12">
+                <aside id="sow-social-media-buttons-2" class="widget widget_sow-social-media-buttons"><div class="so-widget-sow-social-media-buttons so-widget-sow-social-media-buttons-flat-012f80f3c4ef">
+                        <div class="social-media-button-container">
 
-                        <a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="Jawaki property on Facebook" aria-label="Jawaki property on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/326204164458175/about/" >
+                            <a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="Jawaki property on Facebook" aria-label="Jawaki property on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/groups/326204164458175/about/" >
 			<span>
 								<span class="sow-icon-fontawesome" data-sow-icon="&#xf09a;" ></span>							</span>
-                        </a>
+                            </a>
 
-                        <a class="ow-button-hover sow-social-media-button-twitter sow-social-media-button" title="Jawaki property on Twitter" aria-label="Jawaki property on Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/@jawaki_property/" >
+                            <a class="ow-button-hover sow-social-media-button-twitter sow-social-media-button" title="Jawaki property on Twitter" aria-label="Jawaki property on Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/@jawaki_property/" >
 			<span>
 								<span class="sow-icon-fontawesome" data-sow-icon="&#xf099;" ></span>							</span>
-                        </a>
+                            </a>
 
-                        <a class="ow-button-hover sow-social-media-button-google-plus sow-social-media-button" title="Jawaki property on Google Plus" aria-label="Jawaki property on Google Plus" target="_blank" rel="noopener noreferrer" href="https://plus.google.com/" >
+                            <a class="ow-button-hover sow-social-media-button-google-plus sow-social-media-button" title="Jawaki property on Google Plus" aria-label="Jawaki property on Google Plus" target="_blank" rel="noopener noreferrer" href="https://plus.google.com/" >
 			<span>
 								<span class="sow-icon-fontawesome" data-sow-icon="&#xf0d5;" ></span>							</span>
-                        </a>
+                            </a>
 
-                        <a class="ow-button-hover sow-social-media-button-instagram sow-social-media-button" title="Jawaki property on Instagram" aria-label="Jawaki property on Instagram" target="_blank" rel="noopener noreferrer" href="https://instagram.com/" >
+                            <a class="ow-button-hover sow-social-media-button-instagram sow-social-media-button" title="Jawaki property on Instagram" aria-label="Jawaki property on Instagram" target="_blank" rel="noopener noreferrer" href="https://instagram.com/" >
 			<span>
 								<span class="sow-icon-fontawesome" data-sow-icon="&#xf16d;" ></span>							</span>
-                        </a>
+                            </a>
+                        </div>
+                    </div></aside><aside id="email-subscribers-6" class="widget widget_text elp-widget">
+                    <div>
+                        <form class="es_widget_form" data-es_form_id="es_widget_form">
+                            <div class="es_lablebox"><label class="es_widget_form_email">Email *</label></div>
+                            <div class="es_textbox">
+                                <input type="email" id="es_txt_email" class="es_textbox_class" name="es_txt_email"  value="" maxlength="40" required>
+                            </div>
+                            <div class="es_button">
+                                <input type="submit" id="es_txt_button" class="es_textbox_button es_submit_button" name="es_txt_button" value="Subscribe">
+                            </div>
+                            <div class="es_msg" id="es_widget_msg">
+                                <span id="es_msg"></span>
+                            </div>
+                            <input type="hidden" id="es_txt_name" name="es_txt_name" value="">
+                            <input type="hidden" id="es_txt_group" name="es_txt_group" value="Public">
+                            <input type="hidden" name="es-subscribe" id="es-subscribe" value="16904ffc3f"/>
+                        </form>
                     </div>
-                </div></aside><aside id="email-subscribers-6" class="widget widget_text elp-widget">
-                <div>
-                    <form class="es_widget_form" data-es_form_id="es_widget_form">
-                        <div class="es_lablebox"><label class="es_widget_form_email">Email *</label></div>
-                        <div class="es_textbox">
-                            <input type="email" id="es_txt_email" class="es_textbox_class" name="es_txt_email"  value="" maxlength="40" required>
-                        </div>
-                        <div class="es_button">
-                            <input type="submit" id="es_txt_button" class="es_textbox_button es_submit_button" name="es_txt_button" value="Subscribe">
-                        </div>
-                        <div class="es_msg" id="es_widget_msg">
-                            <span id="es_msg"></span>
-                        </div>
-                        <input type="hidden" id="es_txt_name" name="es_txt_name" value="">
-                        <input type="hidden" id="es_txt_group" name="es_txt_group" value="Public">
-                        <input type="hidden" name="es-subscribe" id="es-subscribe" value="16904ffc3f"/>
-                    </form>
-                </div>
-            </aside><aside id="sydney_contact_info-3" class="widget sydney_contact_info_widget"><h3 class="widget-title">Our contacts</h3><div class="contact-address"><span><i class="fa fa-home"></i></span>Jawaki Properties &amp; developers co. Ltd. C.K Business center, ground floor Ruiru-kamiti road, ruiru town P.O Box 1131-00232  Ruiru, Kenya</div><div class="contact-phone"><span><i class="fa fa-phone"></i></span>0720339861/0720407099</div><div class="contact-email"><span><i class="fa fa-envelope"></i></span><a href="mailto:j&#97;&#119;&#97;&#107;&#105;pro&#112;&#101;r&#116;ie&#115;co&#64;&#103;&#109;ai&#108;&#46;c&#111;m">j&#97;&#119;&#97;&#107;&#105;pro&#112;&#101;r&#116;ie&#115;co&#64;&#103;&#109;ai&#108;&#46;c&#111;m</a></div></aside>				</div>
+                </aside><aside id="sydney_contact_info-3" class="widget sydney_contact_info_widget"><h3 class="widget-title">Our contacts</h3><div class="contact-address"><span><i class="fa fa-home"></i></span>Jawaki Properties &amp; developers co. Ltd. C.K Business center, ground floor Ruiru-kamiti road, ruiru town P.O Box 1131-00232  Ruiru, Kenya</div><div class="contact-phone"><span><i class="fa fa-phone"></i></span>0720339861/0720407099</div><div class="contact-email"><span><i class="fa fa-envelope"></i></span><a href="mailto:j&#97;&#119;&#97;&#107;&#105;pro&#112;&#101;r&#116;ie&#115;co&#64;&#103;&#109;ai&#108;&#46;c&#111;m">j&#97;&#119;&#97;&#107;&#105;pro&#112;&#101;r&#116;ie&#115;co&#64;&#103;&#109;ai&#108;&#46;c&#111;m</a></div></aside>				</div>
 
 
 
 
+        </div>
     </div>
-</div>
-<a class="go-top"><i class="fa fa-angle-up"></i></a>
+    <a class="go-top"><i class="fa fa-angle-up"></i></a>
 
-<footer id="colophon" class="site-footer" role="contentinfo">
-    <div class="site-info container">
-        <center><p>Copyright&copy;2018.All Rights Reserved.</p></center>
-    </div><!-- .site-info -->
-</footer><!-- #colophon -->
+    <footer id="colophon" class="site-footer" role="contentinfo">
+        <div class="site-info container">
+            <center><p>Copyright&copy;2018.All Rights Reserved.</p></center>
+        </div><!-- .site-info -->
+    </footer><!-- #colophon -->
 
 
 </div><!-- #page -->
 
-<link rel='stylesheet' id='rem-bs-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/admin/css/bootstrap.min.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/font-awesome.min.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='rem-styles-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/rem-styles.css?ver=4.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-bs-css-css'  href='{{asset('asset/css/bootstrap.min.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='{{asset('asset/css/font-awesome.min.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-styles-css-css'  href='{{asset('asset/css/rem-styles.css')}}' type='text/css' media='all' />
 <style id='rem-styles-css-inline-css' type='text/css'>
     .fotorama__thumb-border, .ich-settings-main-wrap .form-control:focus {
         border-color: #1FB7A6 !important;
@@ -440,56 +440,56 @@
     }
 
 </style>
-<link rel='stylesheet' id='rem-archive-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/archive-property.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='rem-nouislider-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/nouislider.min.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='rem-easydropdown-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/easydropdown.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='rem-labelauty-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/labelauty.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='rem-search-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/search-property.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='rem-archive-property-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/archive-property.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='sow-social-media-buttons-flat-012f80f3c4ef-css'  href='http://jawakiproperty.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-012f80f3c4ef.css?ver=4.9.5' type='text/css' media='all' />
-<link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css'  href='http://jawakiproperty.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css?ver=4.9.5' type='text/css' media='all' />
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/js/jquery.dataTables.min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/helpers.js?ver=20142209'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/jquery.dropdown.js?ver=20142209'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/jquery.ebpFullCalendar.js?ver=20142209'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/frontend.js?ver=20142209'></script>
+<link rel='stylesheet' id='rem-archive-css-css'  href='{{asset('asset/css/archive-property1.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-nouislider-css-css'  href='{{asset('asset/css/nouislider.min.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-easydropdown-css-css'  href='{{asset('asset/css/easydropdown.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-labelauty-css-css'  href='{{asset('asset/css/labelauty.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-search-css-css'  href='{{asset('asset/css/search-property.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='rem-archive-property-css-css'  href='{{asset('asset/css/archive-property1.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='sow-social-media-buttons-flat-012f80f3c4ef-css'  href='{{asset('asset/css/sow-social-media-buttons-flat-012f80f3c4ef.css')}}' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css'  href='{{asset('asset/css/style0.css')}}' type='text/css' media='all' />
+<script type='text/javascript' src='{{asset('asset/js/jquery.dataTables.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/helpers.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/jquery.dropdown.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/jquery.ebpFullCalendar.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/frontend.js')}}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
-    var wpcf7 = {"apiSettings":{"root":"http:\/\/jawakiproperty.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+    var wpcf7 = {"apiSettings":{"root":"\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1","recaptcha":{"messages":{"empty":"Please verify that you are not a robot.","cached":"1"},
     /* ]]> */
 </script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+<script type='text/javascript' src='{{asset('asset/js/scripts.js')}}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var es_widget_notices = {"es_email_notice":"Please enter email address","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Kindly check your mailbox and confirm your subscription. If you don't see the email within a few minutes, check the spam\/junk folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_ajax_url":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget.js?ver=4.9.5'></script>
+<script type='text/javascript' src='{{asset('asset/js/es-widget.js')}}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var es_widget_page_notices = {"es_email_notice":"Please enter email address","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Kindly check your mailbox and confirm your subscription. If you don't see the email within a few minutes, check the spam\/junk folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_ajax_url":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget-page.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/scripts/jquery.finalTilesGallery.js?ver=3.3.37'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/scripts.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/main.min.js?ver=20180213'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/labelauty.min.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/jquery.easydropdown.min.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/nouislider.all.min.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/jquery.matchheight-min.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/imagefill.min.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/imagesloaded.min.js?ver=4.9.5'></script>
+<script type='text/javascript' src='{{asset('asset/js/es-widget-page.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/script/jquery.finalTilesGallery.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/script.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/main.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/skip-link-focus-fix.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/wp-embed.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/labelauty.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/jquery.easydropdown.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/nouislider.all.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/jquery.matchheight-min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/imagefill.min.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/imagesloaded.min.js')}}'></script>
 <script type='text/javascript'>
     /* <![CDATA[ */
     var rem_ob = {"price_min":"350","price_max":"45000","price_min_default":"7000","price_max_default":"38500","price_step":"-4","currency_symbol":"KSh","thousand_separator":",","decimal_separator":".","decimal_points":"2"};
     /* ]]> */
 </script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/js/search-property.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/js/archive-property.js?ver=4.9.5'></script>
-<script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/js/pagination.js?ver=4.9.5'></script>
+<script type='text/javascript' src='{{asset('asset/js/search-property.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/archive-property.js')}}'></script>
+<script type='text/javascript' src='{{asset('asset/js/pagination.js')}}'></script>
 <script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
 
 <!--New slider javascript-->

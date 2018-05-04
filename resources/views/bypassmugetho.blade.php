@@ -7,40 +7,48 @@
 
 @section('content')
 
+    <!--        <!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://jawakiproperty.com/xmlrpc.php">
 
+    <title>Athioasis - Jawaki property</title>
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/login/judah-bypass/" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="Judah Bypass - Jawaki property" />
-    <meta property="og:description" content="Judah bypass plots on sale" />
-    <meta property="og:url" content="http://jawakiproperty.com/login/judah-bypass/" />
-    <meta property="og:site_name" content="Jawaki property" />
-    <meta property="og:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg" />
-    <meta property="og:image:width" content="448" />
-    <meta property="og:image:height" content="299" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:description" content="Judah bypass plots on sale" />
-    <meta name="twitter:title" content="Judah Bypass - Jawaki property" />
-    <meta name="twitter:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg" />
-    <!-- / Yoast SEO plugin. -->
+    <!--<link rel="canonical" href="http://jawakiproperty.com/login/judah-bypass/" />
+     <meta property="og:locale" content="en_US" />
+     <meta property="og:type" content="article" />
+     <meta property="og:title" content="Judah Bypass - Jawaki property" />
+     <meta property="og:description" content="Judah bypass plots on sale" />
+     <meta property="og:url" content="http://jawakiproperty.com/login/judah-bypass/" />
+     <meta property="og:site_name" content="Jawaki property" />
+     <meta property="og:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg" />
+     <meta property="og:image:width" content="448" />
+     <meta property="og:image:height" content="299" />
+     <meta name="twitter:card" content="summary_large_image" />
+     <meta name="twitter:description" content="Judah bypass plots on sale" />
+     <meta name="twitter:title" content="Judah Bypass - Jawaki property" />
+     <meta name="twitter:image" content="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg" />
+     <!-- / Yoast SEO plugin. -->
 
-    <link rel='dns-prefetch' href='//maps.googleapis.com' />
-    <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
-    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-    <link rel='dns-prefetch' href='//s.w.org' />
-    <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Feed" href="http://jawakiproperty.com/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Comments Feed" href="http://jawakiproperty.com/comments/feed/" />
-    <!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+    <!--<link rel='dns-prefetch' href='//maps.googleapis.com' />
+     <link rel='dns-prefetch' href='//netdna.bootstrapcdn.com' />
+     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+     <link rel='dns-prefetch' href='//s.w.org' />
+     <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Feed" href="http://jawakiproperty.com/feed/" />
+     <link rel="alternate" type="application/rss+xml" title="Jawaki property &raquo; Comments Feed" href="http://jawakiproperty.com/comments/feed/" />
+     <!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
     <!-- No UA code set -->
     <!-- / Google Analytics by MonsterInsights -->
-    <script type="text/javascript">
-        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/jawakiproperty.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
-        !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-    </script>
-    <style type="text/css">
+    <!--<script type="text/javascript">
+         window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/jawakiproperty.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.5"}};
+         !function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+     </script>-->
+    <!--<style type="text/css">
         img.wp-smiley,
         img.emoji {
             display: inline !important;
@@ -53,25 +61,25 @@
             background: none !important;
             padding: 0 !important;
         }
-    </style>
-    <link rel='stylesheet' id='dashicons-css'  href='http://jawakiproperty.com/wp-includes/css/dashicons.min.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='theme-my-login-css'  href='http://jawakiproperty.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.10' type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-tables-style-css'  href='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/css/ultimate-tables.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='ultimate-datatables-style-css'  href='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/css/jquery.dataTables.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpapp-styles-css'  href='http://jawakiproperty.com/wp-content/plugins/wordpress-easy-paypal-payment-or-donation-accept-plugin/wpapp-styles.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='wpbs-calendar-css'  href='http://jawakiproperty.com/wp-content/plugins/wp-booking-system/css/wpbs-calendar.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='ebp_style-css'  href='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/css/frontend.css?ver=20142209' type='text/css' media='all' />
-    <link rel='stylesheet' id='sydney-bootstrap-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/css/bootstrap/bootstrap.min.css?ver=1' type='text/css' media='all' />
-    <link rel='stylesheet' id='clean-login-css-css'  href='http://jawakiproperty.com/wp-content/plugins/clean-login/content/style.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='contact-form-7-css'  href='http://jawakiproperty.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1' type='text/css' media='all' />
-    <link rel='stylesheet' id='es-widget-css-css'  href='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='events-manager-css'  href='http://jawakiproperty.com/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.92' type='text/css' media='all' />
-    <link rel='stylesheet' id='finalTilesGallery_stylesheet-css'  href='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/scripts/ftg.css?ver=3.3.37' type='text/css' media='all' />
+    </style>-->
+    <!--<link rel='stylesheet' id='dashicons-css'  href='{{asset('asset/css/dashicons.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='theme-my-login-css'  href='{{asset('asset/css/theme-my-login.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='ultimate-tables-style-css'  href='{{asset('asset/css/ultimate-tables.css')}}' type='text/css' media='all' /
+    <link rel='stylesheet' id='ultimate-datatables-style-css'  href='{{asset('asset/css/jquery.dataTables.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpapp-styles-css'  href='{{asset('asset/css/wpapp-styles.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='wpbs-calendar-css'  href='{{asset('asset/css/wpbs-calendar.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='ebp_style-css'  href='{{asset('asset/css/frontend.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='sydney-bootstrap-css'  href='{{asset('asset/css/bootstrapathi.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='clean-login-css-css'  href='{{asset('asset/css/style0.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='contact-form-7-css'  href='{{asset('asset/css/styles2.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='es-widget-css-css'  href='{{asset('asset/css/es-widget1.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='events-manager-css'  href='{{asset('asset/css/events_manager.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='finalTilesGallery_stylesheet-css'  href='{{asset('asset/script/ftg.css')}}' type='text/css' media='all' />
     <link rel='stylesheet' id='fontawesome_stylesheet-css'  href='//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='rem-bs-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/admin/css/bootstrap.min.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='font-awesome-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/font-awesome.min.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='rem-styles-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/rem-styles.css?ver=4.9.5' type='text/css' media='all' />
-    <style id='rem-styles-css-inline-css' type='text/css'>
+    <link rel='stylesheet' id='rem-bs-css-css'  href='{{asset('asset/css/bootstrapmanager.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-css'  href='{{asset('asset/css/font-awesome1.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='rem-styles-css-css'  href='{{asset('asset/css/rem-styles.css')}}' type='text/css' media='all' />-->
+    <!--<style id='rem-styles-css-inline-css' type='text/css'>
         .fotorama__thumb-border, .ich-settings-main-wrap .form-control:focus {
             border-color: #1FB7A6 !important;
         }
@@ -170,12 +178,12 @@
             border-color: #1FB7A6 !important;
         }
 
-    </style>
-    <link rel='stylesheet' id='rem-fotorama-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/fotorama.min.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='rem-single-property-css-css'  href='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/css/single-property.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='sow-social-media-buttons-flat-f9f58ec69cf0-css'  href='http://jawakiproperty.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-f9f58ec69cf0.css?ver=4.9.5' type='text/css' media='all' />
+    </style>-->
+    <link rel='stylesheet' id='rem-fotorama-css-css'  href='{{asset('asset/css/fotorama1.min.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='rem-single-property-css-css'  href='{{asset('asset/css/single-property1.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='sow-social-media-buttons-flat-f9f58ec69cf0-css'  href='{{asset('asset/css/sow-social-media-buttons-flat-f9f58ec69cf01.css')}}' type='text/css' media='all' />
     <link rel='stylesheet' id='sydney-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C400italic%2C600%7CRaleway%3A400%2C500%2C600' type='text/css' media='all' />
-    <link rel='stylesheet' id='sydney-style-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/style.css?ver=20180213' type='text/css' media='all' />
+    <!--<link rel='stylesheet' id='sydney-style-css'  href='{{asset('asset/css/style1.css')}}' type='text/css' media='all' />-->
     <style id='sydney-style-inline-css' type='text/css'>
         .site-header { background-color:rgba(0,0,0,0.9);}
         .site-title { font-size:32px; }
@@ -238,58 +246,58 @@
         }
 
     </style>
-    <link rel='stylesheet' id='sydney-font-awesome-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/fonts/font-awesome.min.css?ver=4.9.5' type='text/css' media='all' />
+    <!--<link rel='stylesheet' id='sydney-font-awesome-css'  href='{{asset('asset/css/font-awesome1.min.css')}}' type='text/css' media='all' />
     <!--[if lte IE 9]>
-    <link rel='stylesheet' id='sydney-ie9-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.5' type='text/css' media='all' />
-    <![endif]-->
-    <link rel='stylesheet' id='slb_core-css'  href='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.6.0' type='text/css' media='all' />
-    <link rel='stylesheet' id='forget-about-shortcode-buttons-css'  href='http://jawakiproperty.com/wp-content/plugins/forget-about-shortcode-buttons/public/css/button-styles.css?ver=2.1.1' type='text/css' media='all' />
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/wp-booking-system/js/wpbs.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/wp-booking-system/js/custom-select.js?ver=4.9.5'></script>
+    <!--<link rel='stylesheet' id='sydney-ie9-css'  href='http://jawakiproperty.com/wp-content/themes/sydney/css/ie9.css?ver=4.9.5' type='text/css' media='all' />
+    <!--[endif]-->
+    <link rel='stylesheet' id='slb_core-css'  href='{{asset('asset/css/app.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='forget-about-shortcode-buttons-css'  href='{{asset('asset/css/button-styles.css')}}' type='text/css' media='all' />
+    <!--<script type='text/javascript' src='{{asset('asset/js/jquery/jquery.js')}}'></script>-->
+    <script type='text/javascript' src='{{asset('asset/js/jquery/jquery-migrate.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/wpbs.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/custom-select.js')}}'></script>
     <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/core.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/widget.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/position.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/mouse.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/sortable.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/datepicker.min.js')}}'></script>
     <script type='text/javascript'>
         jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
     </script>
     <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/wp-a11y.min.js?ver=4.9.5'></script>
-    <script type='text/javascript'>
+    <script type='text/javascript' src='{{asset('asset/js/wp-a11y.min.js')}}'></script>
+    <!--<script type='text/javascript'>
         /* <![CDATA[ */
         var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
         /* ]]> */
-    </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
-    <script type='text/javascript'>
+    </script>-->
+    <script type='text/javascript' src='{{asset('asset/js/autocomplete.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/resizable.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/draggable.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/button.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery/ui/dialog.min.js')}}'></script>
+    <!--<script type='text/javascript'>
         /* <![CDATA[ */
         var EM = {"ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading..."};
         /* ]]> */
-    </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.92'></script>
-    <script type='text/javascript'>
+    </script>-->
+    <script type='text/javascript' src='{{asset('asset/js/events-manager.js')}}'></script>
+    <!--<script type='text/javascript'>
         /* <![CDATA[ */
         var mb_ajax = {"ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
         /* ]]> */
-    </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/maxbuttons/js/min/front.js?ver=7.1'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/fotorama.min.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/imagefill.min.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/lib/imagesloaded.min.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/real-estate-manager/assets/front/js/single-property.js?ver=4.9.5'></script>
-    <link rel='https://api.w.org/' href='http://jawakiproperty.com/wp-json/' />
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jawakiproperty.com/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://jawakiproperty.com/wp-includes/wlwmanifest.xml" />
-    <meta name="generator" content="WordPress 4.9.5" />
+    </script>-->
+    <script type='text/javascript' src='{{asset('asset/js/front.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/fotorama.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/imagefill.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/imagesloaded.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/single-property.js')}}'></script>
+    <!--<link rel='https://api.w.org/' href='http://jawakiproperty.com/wp-json/' />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://jawakiproperty.com/xmlrpc.php?rsd" />-->
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="{{asset('asset/wlwmanifest.xml')}}" />
+    <!--<meta name="generator" content="WordPress 4.9.5" />
     <link rel='shortlink' href='http://jawakiproperty.com/?p=459' />
     <link rel="alternate" type="application/json+oembed" href="http://jawakiproperty.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjawakiproperty.com%2Flogin%2Fjudah-bypass%2F" />
     <link rel="alternate" type="text/xml+oembed" href="http://jawakiproperty.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fjawakiproperty.com%2Flogin%2Fjudah-bypass%2F&#038;format=xml" />
@@ -326,7 +334,7 @@
             }
         })('//jawakiproperty.com/?wordfence_lh=1&hid=A7074FE7E70F0410A8AAFE9D93112483');
     </script>    <script type="text/javascript">var ajaxurl = 'http://jawakiproperty.com/wp-admin/admin-ajax.php';</script>
-    </head>
+</head>-->
 
     <body class="rem_property-template-default single single-rem_property postid-459">
 
@@ -347,12 +355,12 @@
         <!-- #masthead -->
 
 
-        <div class="sydney-hero-area">
+        <!--<div class="sydney-hero-area">
             <div class="header-image">
                 <div class="overlay"></div>			<img class="header-inner" src="http://jawakiproperty.com/wp-content/themes/sydney/images/header.jpg" width="1920" alt="Jawaki property" title="Jawaki property">
             </div>
 
-        </div>
+        </div>-->
 
 
         <div id="content" class="page-wrap">
@@ -368,13 +376,12 @@
                                     <div class="fotorama" data-width="100%" data-fit="cover" data-max-width="100%" data-nav="thumbs" data-transition="flip">
                                         <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" class="attachment-full size-full wp-post-image" alt="" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />                <img src="{{asset('asset/images/2018/03/IMG_5483.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5484.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5485.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5486.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5487.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}">            </div>
                                     <div class="section-title line-style">
-                                        <h3 class="title">Bypass Mugetho</h3>
+                                        <h3 class="title">Athi</h3>
                                     </div>
                                     <div class="description">
                                         <p>40 by 80 plots with ready title deeds.</p>
-
-                                        <p>The plots are 100 metres from the proposed Great Eastern Bypass.</p>
-                                        <p>The roads are all weather and water and electricity is on the site.</p>
+                                        <p>The plots are near athi shopping centre where government e.g schools,hospitals and  police post are located.</p>
+                                        <p>he roads are all weather and they can be accessed using public transport(matatus).</p>
                                         <!-- Final Tiles Grid Gallery for WordPress v3.3.37 free --><style>#ftg-1515 .tile .icon { color:#ffffff; }#ftg-1515 .ftg-items .loading-bar i { background:#666; }#ftg-1515 .ftg-items .loading-bar { background:#fff; }#ftg-1515 .tile .icon { font-size:12px; }#ftg-1515 .tile .icon { margin: -6px 0 0 -6px; }#ftg-1515 .tile .caption-block .text-wrapper span.text { font-size:12px; }#ftg-1515 .tile .caption-block .text-wrapper span.title { font-size:14px; }#ftg-1515 .tile { background-color: transparent; }#ftg-1515 .tile .caption-block .text-wrapper span.text { color: #ffffff; }#ftg-1515 .tile .caption-block .text-wrapper span.title { color: #ffffff; }#ftg-1515 .tile .ftg-social a { color: #ffffff; }#ftg-1515 .tile .caption-block { transition-timing-function:linear; }#ftg-1515 .tile .caption-block { transition-duration:0.25s; }#ftg-1515 .tile .tile-inner:before { background-color: #000000; }#ftg-1515 .tile .tile-inner:before { background-color: rgba(0, 0, 0, 0.8); }</style><a name='15'></a><div class='final-tiles-gallery  ftg-hover-enabled  caption-none caption-middle caption-center' id='ftg-1515' style='width:100%'><div class='ftg-items'><div class='loading-bar'><i></i></div><div  class='tile ftg-preload  '><a href="http://jawakiproperty.com/wp-content/uploads/2018/04/IMG-20180421-WA0004-1024x745.jpg" title="IMG-20180421-WA0004" data-lightbox="ftg-1515" rel="ftg-1515" class="tile-inner  ftg-lightbox" data-slb-active="1" data-slb-asset="1488376713" data-slb-internal="0" data-slb-group="459"><img alt='' class='item' data-class='item' data-ftg-src='http://jawakiproperty.com/wp-content/uploads/2018/04/IMG-20180421-WA0004-550x400.jpg' src='http://jawakiproperty.com/wp-content/uploads/2018/04/IMG-20180421-WA0004-550x400.jpg' width='550' height='400' /><span class='icon fa fa-zoom'></span><div class='caption-block'><div class='text-wrapper'><span class='title'>IMG-20180421-WA0004</span></div></div></a><div class='ftg-social'></div></div></div></div><script type='text/javascript'>jQuery('#ftg-1515 img.item').removeAttr('src');jQuery(document).ready(function () {setTimeout(function () {jQuery('#ftg-1515').finalTilesGallery({minTileWidth: 250,margin: 10,loadMethod: 'sequential',nonce: '7b1c10b8b1',galleryId: '15',setupFilters: true,layout: 'final',debug: false,gridSize: 25,disableGridSizeBelow: 800,allowEnlargement: true,imageSizeFactor: [ [4000, 0.9],[1024, 0.8],[768, 0.7],[640, 0.6],[320, 0.5]],selectedFilter: 'n-a'});jQuery(function () {(function () {var rel = '';jQuery('#ftg-1515 .ftg-lightbox').click(function (e) {rel = jQuery(this).attr('rel');jQuery('#ftg-1515 .ftg-current').removeClass('ftg-current');jQuery('#ftg-1515 [rel="'+rel+'"]').addClass('ftg-current');});})();});}, 0);});</script>
                                         <div class="row">
                                             <img src="{{asset('asset/images/IMG-20180421-WA0002.jpg')}}" alt="Plot Layout" width="600" height="400">
@@ -522,11 +529,11 @@
                                                             <!-- Start Test Element -->
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-1" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsCell" style="height: 70px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br></p></div>
-                                                                    </div>
+                                                                    <!-- <div class="ptsCell" style="height: 70px;">
+                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br></p></div>
+                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 1 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 1 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -548,11 +555,11 @@
                                                             </div>
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-2" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsCell" style="height: 70px;">
                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">text</span></p></div>
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 2 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 2 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -574,11 +581,11 @@
                                                             </div>
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-3" data-el="table_col" style="height: auto; width: 25%;" data-enb-color="0">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsCell" style="height: 70px;">
                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br data-mce-bogus="1"></p></div>
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 3 - 200,000/=</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 3 - 200,000/=</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -603,11 +610,11 @@
                                                             <!-- End Test Element -->
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-4" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsColHeader ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsColHeader ptsCell" style="height: 70px;">
 
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 4 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 4 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -775,11 +782,11 @@
                                                             <!-- Start Test Element -->
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-1" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsColHeader ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsColHeader ptsCell" style="height: 70px;">
 
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 5 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 5 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -801,11 +808,11 @@
                                                             </div>
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-2" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsColHeader ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsColHeader ptsCell" style="height: 70px;">
 
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 6 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 6 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -827,11 +834,11 @@
                                                             </div>
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-3" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsColHeader ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsColHeader ptsCell" style="height: 70px;">
 
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 7 - 200,000/=</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 7 - 200,000/=</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -839,7 +846,7 @@
                                                                     <div class="ptsColFooter" style="height: 156px;">
                                                                         <div class="ptsActBtnWp">
                                                                             <div class="ptsActBtn ptsEl ptsElInput" data-el="btn" data-bgcolor="rgba(2,138,105,1)" data-bgcolor-elements="a" data-bgcolor-to="bg">
-                                                                                <a href="{{url('mugetho_bookings')}}/" class="ptsEditArea ptsInputShell" style="font-size: 12px; background-color: rgb(2, 138, 105);">VIEW</a>
+                                                                                <a href="{{url('athi-bookings')}}/" class="ptsEditArea ptsInputShell" style="font-size: 12px; background-color: rgb(2, 138, 105);">VIEW</a>
                                                                             </div>
                                                                         </div>
 
@@ -856,11 +863,11 @@
                                                             <!-- End Test Element -->
                                                             <div class="ptsEl ptsCol ptsElWithArea ptsCol-4" data-el="table_col" style="height: auto; width: 25%;">
                                                                 <div class="ptsTableElementContent ptsElArea">
-                                                                    <div class="ptsCell" style="height: 70px;">
+                                                                    <!--<div class="ptsCell" style="height: 70px;">
                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br data-mce-bogus="1"></p></div>
-                                                                    </div>
+                                                                    </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Bypass Mugetho 8 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 8 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -914,19 +921,19 @@
                                             <div class="col-sm-4 col-xs-6">
                                                 <div class="details no-padding">
                                                     <div class="detail" style="padding: 6px 15px;">
-                                                        <strong>Area</strong> : 2400 square meters                              </div>
+                                                        <strong>Area</strong> : 3200 square meters                              </div>
                                                 </div>
                                             </div>
                                             <div class="col-sm-4 col-xs-6">
                                                 <div class="details no-padding">
                                                     <div class="detail" style="padding: 6px 15px;">
-                                                        <strong>Address</strong> : Gwa Kairu                             </div>
+                                                        <strong>Address</strong> : Athi                               </div>
                                                 </div>
                                             </div>
                                             <div class="col-sm-4 col-xs-6">
                                                 <div class="details no-padding">
                                                     <div class="detail" style="padding: 6px 15px;">
-                                                        <strong>City</strong> : Nairobi                              </div>
+                                                        <strong>City</strong> : Nairobi                             </div>
                                                 </div>
                                             </div>
                                             <div class="col-sm-4 col-xs-6">
@@ -1005,66 +1012,66 @@
 
     </div><!-- #page -->
 
-    <link rel='stylesheet' id='lightbox2_stylesheet-css'  href='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/lightbox/lightbox2/css/style.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='tables.icheck-css'  href='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/css/jquery.icheck.css?ver=1.5.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='lightbox2_stylesheet-css'  href='{{asset('asset/css/style.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='tables.icheck-css'  href='{{asset('asset/css/jquery.icheck.css')}}' type='text/css' media='all' />
     <link rel='stylesheet' id='animate-css'  href='http://supsystic-42d7.kxcdn.com/_assets/tables/css/animate.css?ver=1.5.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='frontend.tables-css'  href='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/css/frontend.tables.min.css?ver=1.5.2' type='text/css' media='all' />
+    <link rel='stylesheet' id='frontend.tables-css'  href='{{asset('asset/css/frontend.tables.min.css')}}' type='text/css' media='all' />
     <link rel='stylesheet' id='font-awesomePts-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1.5.2' type='text/css' media='all' />
     <link rel='stylesheet' id='tooltipster-css'  href='http://supsystic-42d7.kxcdn.com/lib/tooltipster/tooltipster.css?ver=1.5.2' type='text/css' media='all' />
-    <link rel='stylesheet' id='sow-social-media-buttons-flat-012f80f3c4ef-css'  href='http://jawakiproperty.com/wp-content/uploads/siteorigin-widgets/sow-social-media-buttons-flat-012f80f3c4ef.css?ver=4.9.5' type='text/css' media='all' />
-    <link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css'  href='http://jawakiproperty.com/wp-content/plugins/so-widgets-bundle/icons/fontawesome/style.css?ver=4.9.5' type='text/css' media='all' />
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/ultimate-tables/js/jquery.dataTables.min.js?ver=1.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/helpers.js?ver=20142209'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/jquery.dropdown.js?ver=20142209'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/jquery.ebpFullCalendar.js?ver=20142209'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/eventBookingPro/js/frontend.js?ver=20142209'></script>
+    <link rel='stylesheet' id='sow-social-media-buttons-flat-012f80f3c4ef-css'  href='{{asset('asset/css/sow-social-media-buttons-flat-012f80f3c4ef.css')}}' type='text/css' media='all' />
+    <link rel='stylesheet' id='siteorigin-widget-icon-font-fontawesome-css'  href='{{asset('asset/css/styleathi1.css')}}' type='text/css' media='all' />
+    <script type='text/javascript' src='{{asset('asset/js/jquery/jquery.dataTables.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/helpers.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery.dropdown.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery.ebpFullCalendar.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/frontend.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var wpcf7 = {"apiSettings":{"root":"http:\/\/jawakiproperty.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1'></script>
+    <script type='text/javascript' src='{{asset('asset/js/scripts.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var es_widget_notices = {"es_email_notice":"Please enter email address","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Kindly check your mailbox and confirm your subscription. If you don't see the email within a few minutes, check the spam\/junk folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_ajax_url":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget.js?ver=4.9.5'></script>
+    <script type='text/javascript' src='{{asset('asset/es-widget.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var es_widget_page_notices = {"es_email_notice":"Please enter email address","es_success_message":"Successfully Subscribed.","es_success_notice":"Your subscription was successful! Kindly check your mailbox and confirm your subscription. If you don't see the email within a few minutes, check the spam\/junk folder.","es_email_exists":"Email Address already exists!","es_error":"Oops.. Unexpected error occurred.","es_invalid_email":"Invalid email address","es_try_later":"Please try after some time","es_ajax_url":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/email-subscribers/widget/es-widget-page.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/scripts/jquery.finalTilesGallery.js?ver=3.3.37'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/scripts.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/main.min.js?ver=20180213'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/themes/sydney/js/skip-link-focus-fix.js?ver=20130115'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-includes/js/wp-embed.min.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/final-tiles-grid-gallery-lite/lightbox/lightbox2/js/script.js?ver=4.9.5'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/js/common.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/js/icheck.min.js?ver=1.5.2'></script>
+    <script type='text/javascript' src='{{asset('asset/js/es-widget-page.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/jquery.finalTilesGallery.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/scripts1.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/main.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/skip-link-focus-fix.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/wp-embed.min.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/script1.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/common.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/icheck.min.js')}}'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var PTS_DATA = {"siteUrl":"http:\/\/jawakiproperty.com\/","imgPath":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/img\/","cssPath":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/css\/","loader":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/img\/loading.gif","close":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/img\/cross.gif","ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php","options":{"add_love_link":"1","disable_autosave":"0"},"PTS_CODE":"pts"};
         var PTS_DATA = {"siteUrl":"http:\/\/jawakiproperty.com\/","imgPath":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/img\/","cssPath":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/css\/","loader":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/img\/loading.gif","close":"http:\/\/jawakiproperty.com\/wp-content\/plugins\/pricing-table-by-supsystic\/img\/cross.gif","ajaxurl":"http:\/\/jawakiproperty.com\/wp-admin\/admin-ajax.php","options":{"add_love_link":"1","disable_autosave":"0"},"PTS_CODE":"pts"};
         /* ]]> */
     </script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/js/core.js?ver=1.5.2'></script>
+    <script type='text/javascript' src='{{asset('asset/js/core.js')}}'></script>
     <script type='text/javascript' src='http://supsystic-42d7.kxcdn.com/lib/tooltipster/jquery.tooltipster.min.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/js/responsiveText.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.editor.blocks_fabric.base.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.editor.blocks.base.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.editor.elements.base.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/modal.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/pricing-table-by-supsystic/modules/tables/js/frontend.tables.js?ver=1.5.2'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/client/js/prod/lib.core.js?ver=2.6.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/client/js/prod/lib.view.js?ver=2.6.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/themes/baseline/js/prod/client.js?ver=2.6.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/themes/default/js/prod/client.js?ver=2.6.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/template-tags/item/js/prod/tag.item.js?ver=2.6.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/template-tags/ui/js/prod/tag.ui.js?ver=2.6.0'></script>
-    <script type='text/javascript' src='http://jawakiproperty.com/wp-content/plugins/simple-lightbox/content-handlers/image/js/prod/handler.image.js?ver=2.6.0'></script>
+    <script type='text/javascript' src='{{asset('asset/js/responsiveText.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/frontend.tables.editor.blocks_fabric.base.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/frontend.tables.editor.blocks.base.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/frontend.tables.editor.elements.base.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/modal.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/frontend.tables.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/lib.core.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/prod/lib.view.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/client.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/client.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/tag.item.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/tag.ui.js')}}'></script>
+    <script type='text/javascript' src='{{asset('asset/js/handler.image.js')}}'></script>
     <script type="text/javascript" id="slb_footer">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB && SLB.has_child('View.init') ) { SLB.View.init({"ui_autofit":true,"ui_animate":true,"slideshow_autostart":true,"slideshow_duration":"6","group_loop":true,"ui_overlay_opacity":"0.8","ui_title_default":false,"theme_default":"slb_default","ui_labels":{"loading":"Loading","close":"Close","nav_next":"Next","nav_prev":"Previous","slideshow_start":"Start slideshow","slideshow_stop":"Stop slideshow","group_status":"Item %current% of %total%"}}); }
             if ( !!window.SLB && SLB.has_child('View.assets') ) { {$.extend(SLB.View.assets, {"1488376713":{"id":null,"type":"image","source":"http:\/\/jawakiproperty.com\/wp-content\/uploads\/2018\/04\/IMG-20180421-WA0004-1024x745.jpg","internal":true}});} }
             /* THM */

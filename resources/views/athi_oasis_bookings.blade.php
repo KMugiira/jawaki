@@ -4,7 +4,7 @@
 
 @section('content')
 
-        <!DOCTYPE html>
+ <!--       <!DOCTYPE html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +15,7 @@
     <title>Athi Oasis Bookings - Jawaki property</title>
 
     <!-- This site is optimized with the Yoast SEO plugin v7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-    <link rel="canonical" href="http://jawakiproperty.com/home/login/property/athi-oasis-bookings/" />
+    <!--<link rel="canonical" href="http://jawakiproperty.com/home/login/property/athi-oasis-bookings/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Athi Oasis Bookings - Jawaki property" />
@@ -240,7 +240,7 @@
     <div class="header-clone"></div>
 
 
-    <header id="masthead" class="site-header" role="banner">
+  <!--  <header id="masthead" class="site-header" role="banner">
         <div class="header-wrap">
             <div class="container">
                 <div class="row">
@@ -283,7 +283,9 @@
                         <article id="post-774" class="post-774 page type-page status-publish has-post-thumbnail hentry">
                             <header class="entry-header">
                                 <h1 class="title-post entry-title">Athi Oasis Bookings</h1>	</header><!-- .entry-header -->
-
+                            <div class="row">
+                                <img src="{{asset('asset/images/2018/03/IMG_5478.jpg')}}" alt="Plot Layout" width="400" height="200">
+                            </div>
                             <div class="entry-content">
                                 <article id="post-711" class="post-711 event type-event status-publish has-post-thumbnail hentry event-categories-booking event-categories-buying">
                                     <header class="entry-header"></header>
@@ -292,14 +294,14 @@
                                             <a href="http://jawakiproperty.com/locations/athi/">Athi</a></p>
                                         <p><strong>Categories</strong></p>
                                         <ul class="event-categories">
-                                            <li><a href="http://jawakiproperty.com/events/categories/booking/">Booking</a></li>
-                                            <li><a href="http://jawakiproperty.com/events/categories/buying/">Buying</a></li>
+                                            <li><a href="{{url('jawaki_bookings')}}">Booking</a></li>
+                                            <li><a href="{{url('shop')}}">Buying</a></li>
                                         </ul>
                                         <p>40 by 80 plots with ready title deeds.</p>
                                         <p>The plots are 500 metres from the proposed Great Easterb Bypass linking the three major roads i.e Mombasa road-Kang’undo road-Garissa road.</p>
                                         <p>The roads are all weather and water and electricity is on the site.</p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="Jawaki Bookings">Book Now</a></p>
-                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/athi_o/#">Download Title Deed</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="{{url('jawaki_bookings')}}">Book Now</a></p>
+                                        <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/athi_o/#">Download Title Deed (Recommended)</a></p>
                                     </div>
                                 </article>
                                 <p>&nbsp;</p>
