@@ -376,15 +376,14 @@
                                     <div class="fotorama" data-width="100%" data-fit="cover" data-max-width="100%" data-nav="thumbs" data-transition="flip">
                                         <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}" class="attachment-full size-full wp-post-image" alt="" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5488-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />                <img src="{{asset('asset/images/2018/03/IMG_5483.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5484.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5485.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5486.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5487.jpg')}}"><img src="{{asset('asset/images/2018/03/IMG_5488.jpg')}}">            </div>
                                     <div class="section-title line-style">
-                                        <h3 class="title">Athi</h3>
+                                        <h3 class="title">Mwireri</h3>
                                     </div>
                                     <div class="description">
                                         <p>40 by 80 plots with ready title deeds.</p>
-                                        <p>The plots are near athi shopping centre where government e.g schools,hospitals and  police post are located.</p>
-                                        <p>he roads are all weather and they can be accessed using public transport(matatus).</p>
+                                        <p>Weather roads leading to the plots with water and electricity available at the site.</p>
                                         <!-- Final Tiles Grid Gallery for WordPress v3.3.37 free --><style>#ftg-1515 .tile .icon { color:#ffffff; }#ftg-1515 .ftg-items .loading-bar i { background:#666; }#ftg-1515 .ftg-items .loading-bar { background:#fff; }#ftg-1515 .tile .icon { font-size:12px; }#ftg-1515 .tile .icon { margin: -6px 0 0 -6px; }#ftg-1515 .tile .caption-block .text-wrapper span.text { font-size:12px; }#ftg-1515 .tile .caption-block .text-wrapper span.title { font-size:14px; }#ftg-1515 .tile { background-color: transparent; }#ftg-1515 .tile .caption-block .text-wrapper span.text { color: #ffffff; }#ftg-1515 .tile .caption-block .text-wrapper span.title { color: #ffffff; }#ftg-1515 .tile .ftg-social a { color: #ffffff; }#ftg-1515 .tile .caption-block { transition-timing-function:linear; }#ftg-1515 .tile .caption-block { transition-duration:0.25s; }#ftg-1515 .tile .tile-inner:before { background-color: #000000; }#ftg-1515 .tile .tile-inner:before { background-color: rgba(0, 0, 0, 0.8); }</style><a name='15'></a><div class='final-tiles-gallery  ftg-hover-enabled  caption-none caption-middle caption-center' id='ftg-1515' style='width:100%'><div class='ftg-items'><div class='loading-bar'><i></i></div><div  class='tile ftg-preload  '><a href="http://jawakiproperty.com/wp-content/uploads/2018/04/IMG-20180421-WA0004-1024x745.jpg" title="IMG-20180421-WA0004" data-lightbox="ftg-1515" rel="ftg-1515" class="tile-inner  ftg-lightbox" data-slb-active="1" data-slb-asset="1488376713" data-slb-internal="0" data-slb-group="459"><img alt='' class='item' data-class='item' data-ftg-src='http://jawakiproperty.com/wp-content/uploads/2018/04/IMG-20180421-WA0004-550x400.jpg' src='http://jawakiproperty.com/wp-content/uploads/2018/04/IMG-20180421-WA0004-550x400.jpg' width='550' height='400' /><span class='icon fa fa-zoom'></span><div class='caption-block'><div class='text-wrapper'><span class='title'>IMG-20180421-WA0004</span></div></div></a><div class='ftg-social'></div></div></div></div><script type='text/javascript'>jQuery('#ftg-1515 img.item').removeAttr('src');jQuery(document).ready(function () {setTimeout(function () {jQuery('#ftg-1515').finalTilesGallery({minTileWidth: 250,margin: 10,loadMethod: 'sequential',nonce: '7b1c10b8b1',galleryId: '15',setupFilters: true,layout: 'final',debug: false,gridSize: 25,disableGridSizeBelow: 800,allowEnlargement: true,imageSizeFactor: [ [4000, 0.9],[1024, 0.8],[768, 0.7],[640, 0.6],[320, 0.5]],selectedFilter: 'n-a'});jQuery(function () {(function () {var rel = '';jQuery('#ftg-1515 .ftg-lightbox').click(function (e) {rel = jQuery(this).attr('rel');jQuery('#ftg-1515 .ftg-current').removeClass('ftg-current');jQuery('#ftg-1515 [rel="'+rel+'"]').addClass('ftg-current');});})();});}, 0);});</script>
                                         <div class="row">
-                                            <img src="{{asset('asset/images/IMG-20180421-WA0002.jpg')}}" alt="Plot Layout" width="600" height="400">
+                                            <img src="{{asset('asset/images/IMG-20180421-WA0004.jpg')}}" alt="Plot Layout" width="600" height="400">
                                         </div>
                                         <div class="ptsTableFrontedShell">
                                             <div id="ptsBlock_479636" data-original-id="7" class="ptsBlock " data-id="24">
@@ -533,7 +532,7 @@
                                                                          <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br></p></div>
                                                                      </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 1 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 1 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -559,7 +558,7 @@
                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">text</span></p></div>
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 2 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 2 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -585,7 +584,7 @@
                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br data-mce-bogus="1"></p></div>
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 3 - 200,000/=</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 3 - 200,000/=</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -614,7 +613,7 @@
 
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 4 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 4 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -786,7 +785,7 @@
 
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 5 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 5 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -812,7 +811,7 @@
 
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 6 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 6 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -838,7 +837,7 @@
 
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 7 - 200,000/=</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 7 - 200,000/=</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 
@@ -846,7 +845,7 @@
                                                                     <div class="ptsColFooter" style="height: 156px;">
                                                                         <div class="ptsActBtnWp">
                                                                             <div class="ptsActBtn ptsEl ptsElInput" data-el="btn" data-bgcolor="rgba(2,138,105,1)" data-bgcolor-elements="a" data-bgcolor-to="bg">
-                                                                                <a href="{{url('athi-bookings')}}/" class="ptsEditArea ptsInputShell" style="font-size: 12px; background-color: rgb(2, 138, 105);">VIEW</a>
+                                                                                <a href="{{url('mwireri_bookings')}}" class="ptsEditArea ptsInputShell" style="font-size: 12px; background-color: rgb(2, 138, 105);">VIEW</a>
                                                                             </div>
                                                                         </div>
 
@@ -867,7 +866,7 @@
                                                                         <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><br data-mce-bogus="1"></p></div>
                                                                     </div>-->
                                                                     <div class="ptsColDesc ptsToggle" style="height: 86px;">
-                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Athi 8 - 200,000/=&nbsp;</span></p></div>
+                                                                        <div class="ptsEl" data-el="table_cell_txt" data-type="txt" style=""><p><span data-mce-style="">Mwireri 8 - 200,000/=&nbsp;</span></p></div>
                                                                     </div>
                                                                     <div class="ptsRows ui-sortable" style="height: auto;">
 

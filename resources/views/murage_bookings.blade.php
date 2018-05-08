@@ -297,7 +297,7 @@
                                         </ul>
                                         <p>50 by 100 plots with ready title deeds</p>
                                         <p>The plots are 50m from the proposed Great Eastern bypass connecting the three major roads i.e Mombasa road,Kangundo road,Garissa road.</p>
-                                        <p>The roads are all weather and water and electricity is on the site.</p>
+                                        <p>The roads are all weather while water and electricity are available at the site.</p>
                                         <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-book-alt" style="background-color: #28a697; color: #ffffff;" href="{{url('jawaki_bookings')}}">Book Now</a></p>
                                         <p><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-arrow-down-alt" style="background-color: #28a697; color: #ffffff;" href="http://jawakiproperty.com/events/mb/#">Download Title Deed (Recommended)</a></p>
                                     </div>

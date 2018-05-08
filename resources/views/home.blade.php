@@ -397,8 +397,7 @@
                             </div></div><div id="property-466" class="col-sm-3 post-466 rem_property type-rem_property status-publish hentry""><div class="landz-box-property box-grid">
                             <a target="" class="hover-effect image image-fill" href="{{url('login')}}">
                                 <span class="cover"></span>
-                                <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5479-1.jpg')}}" class="img-responsive wp-post-image" alt="" data-pid="453" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />		<h3 class="title">Murera Magomano</h3>
-
+                                <img width="448" height="299" src="{{asset('asset/images/2018/03/IMG_5479-1.jpg')}}" class="img-responsive wp-post-image" alt="" data-pid="453" srcset="http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1.jpg 448w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-300x200.jpg 300w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-230x154.jpg 230w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-350x234.jpg 350w, http://jawakiproperty.com/wp-content/uploads/2018/03/IMG_5479-1-272x182.jpg 272w" sizes="(max-width: 448px) 100vw, 448px" />
                                 <h3 class="title">Gwa kairu(K.u Ruiru campus)</h3>
                             </a>
                             <span class="price"><span class="rem-price-amount"><span class="rem-currency-symbol">KSh</span>0.00</span></span>

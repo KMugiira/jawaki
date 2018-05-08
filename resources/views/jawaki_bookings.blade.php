@@ -283,32 +283,254 @@
                                 <h1 class="title-post entry-title">Jawaki Bookings</h1>	</header><!-- .entry-header -->
 
                             <div class="entry-content">
-                                <p style="text-align: right;"><style>.wpbs-calendar-1 .status-default {background-color: #DDFFCC}.wpbs-calendar-1 .wpbs-day-split-top-default {display:none;} .wpbs-calendar-1 .wpbs-day-split-bottom-default {display:none;} .wpbs-calendar-1 .status-1 {background-color: #FFC0BD}.wpbs-calendar-1 .wpbs-day-split-top-1 {display:none;} .wpbs-calendar-1 .wpbs-day-split-bottom-1 {display:none;} .status-wpbs-grey-out-history {background-color:#E4E4E4}.status-wpbs-grey-out-history .wpbs-day-split-top, .status-wpbs-grey-out-history .wpbs-day-split-bottom {display:none;}li.wpbs-bookable:hover, li.wpbs-bookable-clicked, li.wpbs-bookable-clicked:hover, li.wpbs-bookable-hover, li.wpbs-bookable-hover:hover {height:28px !important; width:28px !important; border: 1px solid #336699 !important; background:#3399cc !important; cursor:pointer; line-height:28px !important; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; color:#fff !important; }li.wpbs-bookable:hover span {color:#fff !important;}li.wpbs-bookable-hover span.wpbs-day-split-bottom, li.wpbs-bookable-hover span.wpbs-day-split-top, li.wpbs-bookable-hover:hover span.wpbs-day-split-bottom, li.wpbs-bookable-hover:hover span.wpbs-day-split-top, li.wpbs-bookable:hover span.wpbs-day-split-top, li.wpbs-bookable:hover span.wpbs-day-split-bottom {display:none !important;}li.wpbs-bookable-clicked span, li.wpbs-bookable-clicked:hover span, li.wpbs-bookable-hover span, li.wpbs-bookable-hover:hover span {color:#ffffff !important;  }li.wpbs-bookable-clicked .wpbs-day-split-top, li.wpbs-bookable-clicked:hover .wpbs-day-split-top, li.wpbs-bookable-hover .wpbs-day-split-top, li.wpbs-bookable-hover:hover .wpbs-day-split-top {border-color:#3399cc !important;}li.wpbs-bookable-clicked .wpbs-day-split-bottom, li.wpbs-bookable-clicked:hover .wpbs-day-split-bottom, li.wpbs-bookable-hover .wpbs-day-split-bottom, li.wpbs-bookable-hover:hover .wpbs-day-split-bottom {border-color:#3399cc !important;}</style><div class="wpbs-container wpbs-calendar-1"><div class="wpbs-calendars"><div class="wpbs-calendar"><div class="wpbs-heading"><a href="#" class="wpbs-prev"><img src="http://jawakiproperty.com/wp-content/plugins/wp-booking-system/images/arrow-left.png" /></a><div class="wpbs-select-container"><select class="wpbs-dropdown"><option value="1523750400">April 2018</option><option value="1526342400">May 2018</option><option value="1529020800">June 2018</option><option value="1531612800">July 2018</option><option value="1534291200">August 2018</option><option value="1536969600">September 2018</option><option value="1539561600">October 2018</option><option value="1542240000">November 2018</option><option value="1544832000">December 2018</option><option value="1547510400">January 2019</option><option value="1550188800">February 2019</option><option value="1552608000">March 2019</option></select></div><a href="#" class="wpbs-next"><img src="http://jawakiproperty.com/wp-content/plugins/wp-booking-system/images/arrow-right.png" /></a></div><ul class="wpbs-weekdays"><li>M</li><li>T</li><li>W</li><li>T</li><li>F</li><li>S</li><li>S</li></ul><ul><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li data-timestamp="1522540800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-1 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">1</span></li></ul><ul><li data-timestamp="1522627200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-2 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">2</span></li><li data-timestamp="1522713600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-3 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">3</span></li><li data-timestamp="1522800000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-4 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">4</span></li><li data-timestamp="1522886400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-5 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">5</span></li><li data-timestamp="1522972800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-6 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">6</span></li><li data-timestamp="1523059200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-7 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">7</span></li><li data-timestamp="1523145600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-8 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">8</span></li></ul><ul><li data-timestamp="1523232000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-9 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">9</span></li><li data-timestamp="1523318400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-10 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">10</span></li><li data-timestamp="1523404800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-11 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">11</span></li><li data-timestamp="1523491200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-12 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">12</span></li><li data-timestamp="1523577600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-13 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">13</span></li><li data-timestamp="1523664000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-14 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">14</span></li><li data-timestamp="1523750400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-15 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">15</span></li></ul><ul><li data-timestamp="1523836800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-16 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">16</span></li><li data-timestamp="1523923200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-17 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">17</span></li><li data-timestamp="1524009600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-18 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">18</span></li><li data-timestamp="1524096000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-19 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">19</span></li><li data-timestamp="1524182400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-20 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">20</span></li><li data-timestamp="1524268800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-21 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">21</span></li><li data-timestamp="1524355200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-22 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">22</span></li></ul><ul><li data-timestamp="1524441600" data-order="1" class="wpbs-bookable wpbs-bookable-1 wpbs-day wpbs-day-23 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">23</span></li><li data-timestamp="1524528000" data-order="2" class="wpbs-bookable wpbs-bookable-2 wpbs-day wpbs-day-24 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">24</span></li><li data-timestamp="1524614400" data-order="3" class="wpbs-bookable wpbs-bookable-3 wpbs-day wpbs-day-25 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">25</span></li><li data-timestamp="1524700800" data-order="4" class="wpbs-bookable wpbs-bookable-4 wpbs-day wpbs-day-26 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">26</span></li><li data-timestamp="1524787200" data-order="5" class="wpbs-bookable wpbs-bookable-5 wpbs-day wpbs-day-27 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">27</span></li><li data-timestamp="1524873600" data-order="6" class="wpbs-bookable wpbs-bookable-6 wpbs-day wpbs-day-28 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">28</span></li><li data-timestamp="1524960000" data-order="7" class="wpbs-bookable wpbs-bookable-7 wpbs-day wpbs-day-29 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">29</span></li></ul><ul><li data-timestamp="1525046400" data-order="8" class="wpbs-bookable wpbs-bookable-8 wpbs-day wpbs-day-30 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">30</span></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li></ul><div class="wpbs-loading"><img src="http://jawakiproperty.com/wp-content/plugins/wp-booking-system/images/ajax-loader.gif" /></div></div><div class='wpbs-clear'></div><div class="wpbs-calendar-options">    <div class="wpbs-show-dropdown">1</div>    <div class="wpbs-current-timestamp">1522540800</div>    <div class="wpbs-total-calendars">1</div>    <div class="wpbs-calendar-history">1</div>    <div class="wpbs-calendar-language">en</div>    <div class="wpbs-calendar-week-start">1</div>    <div class="wpbs-calendar-ID">1</div>    <div class="wpbs-calendar-selection"></div></div></div><div class="wpbs-legend"><div class="wpbs-legend-item"><div class="wpbs-legend-color status-default">
+                                <p style="text-align: right;"><style>.wpbs-calendar-1 .status-default {background-color: #DDFFCC}.wpbs-calendar-1 .wpbs-day-split-top-default {display:none;} .wpbs-calendar-1 .wpbs-day-split-bottom-default {display:none;} .wpbs-calendar-1 .status-1 {background-color: #FFC0BD}.wpbs-calendar-1 .wpbs-day-split-top-1 {display:none;} .wpbs-calendar-1 .wpbs-day-split-bottom-1 {display:none;} .status-wpbs-grey-out-history {background-color:#E4E4E4}.status-wpbs-grey-out-history .wpbs-day-split-top, .status-wpbs-grey-out-history .wpbs-day-split-bottom {display:none;}li.wpbs-bookable:hover, li.wpbs-bookable-clicked, li.wpbs-bookable-clicked:hover, li.wpbs-bookable-hover, li.wpbs-bookable-hover:hover {height:28px !important; width:28px !important; border: 1px solid #336699 !important; background:#3399cc !important; cursor:pointer; line-height:28px !important; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; color:#fff !important; }li.wpbs-bookable:hover span {color:#fff !important;}li.wpbs-bookable-hover span.wpbs-day-split-bottom, li.wpbs-bookable-hover span.wpbs-day-split-top, li.wpbs-bookable-hover:hover span.wpbs-day-split-bottom, li.wpbs-bookable-hover:hover span.wpbs-day-split-top, li.wpbs-bookable:hover span.wpbs-day-split-top, li.wpbs-bookable:hover span.wpbs-day-split-bottom {display:none !important;}li.wpbs-bookable-clicked span, li.wpbs-bookable-clicked:hover span, li.wpbs-bookable-hover span, li.wpbs-bookable-hover:hover span {color:#ffffff !important;  }li.wpbs-bookable-clicked .wpbs-day-split-top, li.wpbs-bookable-clicked:hover .wpbs-day-split-top, li.wpbs-bookable-hover .wpbs-day-split-top, li.wpbs-bookable-hover:hover .wpbs-day-split-top {border-color:#3399cc !important;}li.wpbs-bookable-clicked .wpbs-day-split-bottom, li.wpbs-bookable-clicked:hover .wpbs-day-split-bottom, li.wpbs-bookable-hover .wpbs-day-split-bottom, li.wpbs-bookable-hover:hover .wpbs-day-split-bottom {border-color:#3399cc !important;}</style><div class="wpbs-container wpbs-calendar-1"><div class="wpbs-calendars"><div class="wpbs-calendar"><div class="wpbs-heading"><a href="#" class="wpbs-prev"><img src="{{asset('asset/images/arrow-left.png')}}" /></a><div class="wpbs-select-container"><select class="wpbs-dropdown"><option value="1523750400">April 2018</option><option value="1526342400">May 2018</option><option value="1529020800">June 2018</option><option value="1531612800">July 2018</option><option value="1534291200">August 2018</option><option value="1536969600">September 2018</option><option value="1539561600">October 2018</option><option value="1542240000">November 2018</option><option value="1544832000">December 2018</option><option value="1547510400">January 2019</option><option value="1550188800">February 2019</option><option value="1552608000">March 2019</option></select></div><a href="#" class="wpbs-next"><img src="{{asset('asset/images/arrow-right.png')}}" /></a></div><ul class="wpbs-weekdays"><li>M</li><li>T</li><li>W</li><li>T</li><li>F</li><li>S</li><li>S</li></ul><ul><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li data-timestamp="1522540800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-1 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">1</span></li></ul><ul><li data-timestamp="1522627200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-2 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">2</span></li><li data-timestamp="1522713600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-3 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">3</span></li><li data-timestamp="1522800000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-4 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">4</span></li><li data-timestamp="1522886400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-5 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">5</span></li><li data-timestamp="1522972800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-6 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">6</span></li><li data-timestamp="1523059200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-7 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">7</span></li><li data-timestamp="1523145600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-8 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">8</span></li></ul><ul><li data-timestamp="1523232000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-9 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">9</span></li><li data-timestamp="1523318400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-10 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">10</span></li><li data-timestamp="1523404800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-11 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">11</span></li><li data-timestamp="1523491200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-12 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">12</span></li><li data-timestamp="1523577600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-13 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">13</span></li><li data-timestamp="1523664000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-14 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">14</span></li><li data-timestamp="1523750400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-15 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">15</span></li></ul><ul><li data-timestamp="1523836800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-16 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">16</span></li><li data-timestamp="1523923200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-17 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">17</span></li><li data-timestamp="1524009600" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-18 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">18</span></li><li data-timestamp="1524096000" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-19 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">19</span></li><li data-timestamp="1524182400" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-20 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">20</span></li><li data-timestamp="1524268800" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-21 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">21</span></li><li data-timestamp="1524355200" data-order="" class=" wpbs-bookable- wpbs-day wpbs-day-22 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">22</span></li></ul><ul><li data-timestamp="1524441600" data-order="1" class="wpbs-bookable wpbs-bookable-1 wpbs-day wpbs-day-23 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">23</span></li><li data-timestamp="1524528000" data-order="2" class="wpbs-bookable wpbs-bookable-2 wpbs-day wpbs-day-24 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">24</span></li><li data-timestamp="1524614400" data-order="3" class="wpbs-bookable wpbs-bookable-3 wpbs-day wpbs-day-25 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">25</span></li><li data-timestamp="1524700800" data-order="4" class="wpbs-bookable wpbs-bookable-4 wpbs-day wpbs-day-26 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">26</span></li><li data-timestamp="1524787200" data-order="5" class="wpbs-bookable wpbs-bookable-5 wpbs-day wpbs-day-27 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">27</span></li><li data-timestamp="1524873600" data-order="6" class="wpbs-bookable wpbs-bookable-6 wpbs-day wpbs-day-28 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">28</span></li><li data-timestamp="1524960000" data-order="7" class="wpbs-bookable wpbs-bookable-7 wpbs-day wpbs-day-29 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">29</span></li></ul><ul><li data-timestamp="1525046400" data-order="8" class="wpbs-bookable wpbs-bookable-8 wpbs-day wpbs-day-30 status-default  "><span class="wpbs-day-split-top wpbs-day-split-top-default"></span><span class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></span><span class="wpbs-day-split-day">30</span></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li><li class="wpbs-pad"><!-- --></li></ul><div class="wpbs-loading"><img src="{{asset('asset/images/ajax-loader.gif')}}" /></div></div><div class='wpbs-clear'></div><div class="wpbs-calendar-options">    <div class="wpbs-show-dropdown">1</div>    <div class="wpbs-current-timestamp">1522540800</div>    <div class="wpbs-total-calendars">1</div>    <div class="wpbs-calendar-history">1</div>    <div class="wpbs-calendar-language">en</div>    <div class="wpbs-calendar-week-start">1</div>    <div class="wpbs-calendar-ID">1</div>    <div class="wpbs-calendar-selection"></div></div></div><div class="wpbs-legend"><div class="wpbs-legend-item"><div class="wpbs-legend-color status-default">
                                                     <div class="wpbs-day-split-top wpbs-day-split-top-default"></div>
                                                     <div class="wpbs-day-split-bottom wpbs-day-split-bottom-default"></div>
                                                 </div><p>Available</p></div><div class="wpbs-legend-item"><div class="wpbs-legend-color status-1">
                                     <div class="wpbs-day-split-top wpbs-day-split-top-1"></div>
                                     <div class="wpbs-day-split-bottom wpbs-day-split-bottom-1"></div>
-                                </div><p>Booked</p></div><div class="wpbs-clear"><!-- --></div></div><div class="wpbs-form"><form class="wpbs-form-form"><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-1">Name*</label><input class="wpbs-form-field wpbs-form-field-text" type="text" name="wpbs-field-1" id="wpbs-field-1" value="" /></div><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-2">Your Phone Number*</label><input class="wpbs-form-field wpbs-form-field-text" type="text" name="wpbs-field-2" id="wpbs-field-2" value="" /></div><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-3">Email*</label><input class="wpbs-form-field wpbs-form-field-email" type="email" name="wpbs-field-3" id="wpbs-field-3" value="" /></div><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-4">Comments*</label><textarea class="wpbs-form-field wpbs-form-field-textarea" name="wpbs-field-4" id="wpbs-field-4"></textarea></div><input type="hidden" name="wpbs-form-id" value="1" /><input type="hidden" name="wpbs-form-calendar-ID" value="1" /><input type="hidden" name="wpbs-form-language" value="en" /><input type="hidden" name="wpbs-form-start-date" class="wpbs-start-date" value="" /><input type="hidden" name="wpbs-form-end-date" class="wpbs-end-date" value="" /><div class="wpbs-form-item"><input type="button" name="wpbs-form-submit" value="Book Now" class="wpbs-form-submit" /><div class="wpbs-form-loading"><img src="http://jawakiproperty.com/wp-content/plugins/wp-booking-system/images/ajax-loader.gif" /></div></div><div class="wpbs-clear"><!-- --></div></form></div></div><div class="wpbs-clear"></div></p>
-            <p><strong><div id="accept_paypal_payment_form"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="wp_accept_pp_button_form_classic"><input type="hidden" name="cmd" value="_xclick" /><input type="hidden" name="business" value="isayegon@gmail.com" /><input type="hidden" name="item_name" value="Plugin Service Payment" /><input type="hidden" name="currency_code" value="USD" /><div class="wpapp_payment_subject"><span class="payment_subject"><strong>Plugin Service Payment</strong></span></div><select id="amount" name="amount" class=""><option value="10">Basic Service - $10</option><option value="20">Gold Service - $20</option><option value="30">Platinum Service - $30</option></select><div class="wpapp_other_amount_label"><strong>Other Amount:</strong></div><div class="wpapp_other_amount_input"><input type="number" min="1" step="any" name="other_amount" title="Other Amount" value="" class="wpapp_other_amt_input" style="max-width:80px;" /></div><div class="wpapp_ref_title_label"><strong>Your Email Address:</strong></div><input type="hidden" name="on0" value="Reference" /><div class="wpapp_ref_value"><input type="text" name="os0" maxlength="60" value="" class="wp_pp_button_reference" /></div><input type="hidden" name="no_shipping" value="0" /><input type="hidden" name="no_note" value="1" /><input type="hidden" name="bn" value="TipsandTricks_SP" /><input type="hidden" name="return" value="http://jawakiproperty.com" /><input type="hidden" name="cancel_return" value="http://jawakiproperty.com" /><div class="wpapp_payment_button"><input type="image" src="https://www.paypal.com/en_US/i/btn/btn_paynowCC_LG.gif" name="submit" alt="Make payments with payPal - it's fast, free and secure!" /></div></form></div><script type="text/javascript">
-                        jQuery(document).ready(function($) {
-                            $('.wp_accept_pp_button_form_classic').submit(function(e){
-                                var form_obj = $(this);
-                                var other_amt = form_obj.find('input[name=other_amount]').val();
-                                if (!isNaN(other_amt) && other_amt.length > 0){
-                                    options_val = other_amt;
-                                    //insert the amount field in the form with the custom amount
-                                    $('<input>').attr({
-                                        type: 'hidden',
-                                        id: 'amount',
-                                        name: 'amount',
-                                        value: options_val
-                                    }).appendTo(form_obj);
-                                }
-                                return;
-                            });
-                        });
-                    </script></strong></p>
+                                </div><p>Booked</p></div><div class="wpbs-clear"><!-- --></div></article></main></div><div class="wpbs-form"><form class="wpbs-form-form"><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-1">Name*</label><input class="wpbs-form-field wpbs-form-field-text" type="text" name="wpbs-field-1" id="wpbs-field-1" value="" /></div><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-2">Your Phone Number*</label><input class="wpbs-form-field wpbs-form-field-text" type="text" name="wpbs-field-2" id="wpbs-field-2" value="" /></div><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-3">Email*</label><input class="wpbs-form-field wpbs-form-field-email" type="email" name="wpbs-field-3" id="wpbs-field-3" value="" /></div><div class="wpbs-form-item"><label class="wpbs-form-label" for="wpbs-field-4">Comments*</label><textarea class="wpbs-form-field wpbs-form-field-textarea" name="wpbs-field-4" id="wpbs-field-4"></textarea></div><input type="hidden" name="wpbs-form-id" value="1" /><input type="hidden" name="wpbs-form-calendar-ID" value="1" /><input type="hidden" name="wpbs-form-language" value="en" /><input type="hidden" name="wpbs-form-start-date" class="wpbs-start-date" value="" /><input type="hidden" name="wpbs-form-end-date" class="wpbs-end-date" value="" /><div class="wpbs-form-item"><input type="button" name="wpbs-form-submit" value="Book Now" class="wpbs-form-submit" /><div class="wpbs-form-loading"><img src="{{asset('asset/images/ajax-loader.gif')}}" /></div></div><div class="wpbs-clear"><!-- --></div></form></div></div><div class="wpbs-clear"></div></p>
+            <style>
+                .marketing-input-wrapper {
+                    position: relative;
+                    display: block;
+                    margin-bottom: 15px;
+                }
+
+                a, button, [role="button"], input, label, select, textarea {
+                    -ms-touch-action: manipulation;
+                    touch-action: manipulation;
+                }
+                *, ::before, ::after {
+                    -webkit-box-sizing: border-box;
+                    box-sizing: border-box;
+                }
+                body {
+                    font-family: ShopifySans, Helvetica, Arial, Lucida Grande, sans-serif;
+                    font-size: 16px;
+                    line-height: 1.5;
+                    color: #637381;
+                    font-weight: 400;
+                }
+
+
+            </style>
+            <label class="marketing-input-wrapper">
+                <span class="marketing-label"></span>
+                <textarea id="Policy" class="marketing-textarea policy-textarea">TERMS OF SERVICE
+
+----
+
+OVERVIEW
+
+This website is operated by jawaki properties. Throughout the site, the terms “we”, “us” and “our” refer to jawaki properties. jawaki properties offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+
+By visiting our site and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply  to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content.
+
+Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service.
+
+Any new features or tools which are added to the current store shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.
+
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+
+
+SECTION 1 - ONLINE STORE TERMS
+
+By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws).
+
+You must not transmit any worms or viruses or any code of a destructive nature.
+
+A breach or violation of any of the Terms will result in an immediate termination of your Services.
+
+
+SECTION 2 - GENERAL CONDITIONS
+
+We reserve the right to refuse service to anyone for any reason at any time.
+
+You understand that your content (not including credit card information), may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Credit card information is always encrypted during transfer over networks.
+
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.
+
+The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.
+
+
+SECTION 3 - ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION
+
+We are not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.
+
+This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.
+
+
+SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES
+
+Prices for our products are subject to change without notice.
+
+We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.
+
+We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
+
+
+SECTION 5 - PRODUCTS OR SERVICES (if applicable)
+
+Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.
+
+We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate.
+
+We reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.
+
+We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
+
+
+SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION
+
+We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
+
+You agree to provide current, complete and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.
+
+For more detail, please review our Returns Policy.
+
+
+SECTION 7 - OPTIONAL TOOLS
+
+We may provide you with access to third-party tools over which we neither monitor nor have any control nor input.
+
+You acknowledge and agree that we provide access to such tools ”as is” and “as available” without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of optional third-party tools.
+
+Any use by you of optional tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).
+
+We may also, in the future, offer new services and/or features through the website (including, the release of new tools and resources). Such new features and/or services shall also be subject to these Terms of Service.
+
+
+SECTION 8 - THIRD-PARTY LINKS
+
+Certain content, products and services available via our Service may include materials from third-parties.
+
+Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.
+
+We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
+
+
+SECTION 9 - USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS
+
+If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us. We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.
+
+We may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.
+
+You agree that your comments will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your comments will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. You may not use a false e-mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any comments. You are solely responsible for any comments you make and their accuracy. We take no responsibility and assume no liability for any comments posted by you or any third-party.
+
+
+SECTION 10 - PERSONAL INFORMATION
+
+Your submission of personal information through the store is governed by our Privacy Policy. To view our Privacy Policy.
+
+
+SECTION 11 - ERRORS, INACCURACIES AND OMISSIONS
+
+Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).
+
+We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.
+
+
+
+SECTION 12 - PROHIBITED USES
+
+In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content: (a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet. We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
+
+
+SECTION 13 - DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY
+
+We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.
+
+We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable.
+
+You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you.
+
+You expressly agree that your use of, or inability to use, the service is at your sole risk. The service and all products and services delivered to you through the service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.
+
+In no case shall jawaki properties, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
+
+
+
+SECTION 14 - INDEMNIFICATION
+
+You agree to indemnify, defend and hold harmless jawaki properties and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
+
+
+SECTION 15 - SEVERABILITY
+
+In the event that any provision of these Terms of Service is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Service, such determination shall not affect the validity and enforceability of any other remaining provisions.
+
+
+SECTION 16 - TERMINATION
+
+The obligations and liabilities of the parties incurred prior to the termination date shall survive the termination of this agreement for all purposes.
+
+These Terms of Service are effective unless and until terminated by either you or us. You may terminate these Terms of Service at any time by notifying us that you no longer wish to use our Services, or when you cease using our site.
+
+If in our sole judgment you fail, or we suspect that you have failed, to comply with any term or provision of these Terms of Service, we also may terminate this agreement at any time without notice and you will remain liable for all amounts due up to and including the date of termination; and/or accordingly may deny you access to our Services (or any part thereof).
+
+
+SECTION 17 - ENTIRE AGREEMENT
+
+The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.
+
+These Terms of Service and any policies or operating rules posted by us on this site or in respect to The Service constitutes the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).
+
+Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.
+
+
+SECTION 18 - GOVERNING LAW
+
+These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of -1.164833, 36.952296, Nairobi, 200, 00100, Kenya.
+
+
+SECTION 19 - CHANGES TO TERMS OF SERVICE
+
+You can review the most current version of the Terms of Service at any time at this page.
+
+We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
+
+
+SECTION 20 - CONTACT INFORMATION
+
+Questions about the Terms of Service should be sent to us at kevinmugiira@gmail.com.
+</textarea><span class="marketing-form__messages"></span>
+            </label>
+
+
+
+            <?php
+            if(empty($_POST['agree']) || $_POST['agree'] != 'agree') {
+                echo 'Please indicate that you have read and agree to the Terms and Conditions and Privacy Policy';
+            }
+            ?>
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="return confSubmit();">
+                <p><input id="accept" type="checkbox"> I have read and agree to the Terms &amp; Conditions</p>
+
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="XZQEVRUBKUC3W">
+                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+            </form>
+
+
+
+
+
+
+            <script type="text/javascript">// <![CDATA[
+                function confSubmit() {
+                    if(!document.getElementById("accept").checked) {
+                        alert("Please read and accept the Terms and Conditions in order to continue.");
+                        return false;
+                    }
+                } // ]]></script>
+
+
+
+
             <p style="text-align: right;">Bookings are valid for 14 days only after submitting!</p>
         </div><!-- .entry-content -->
 
@@ -322,7 +544,7 @@
     </div><!-- #primary -->
 
 
-    <div id="secondary" class="widget-area col-md-3" role="complementary">
+    <!--<div id="secondary" class="widget-area col-md-3" role="complementary">
         <aside id="theme-my-login-2" class="widget widget_theme_my_login"><h3 class="widget-title">Log In</h3>
             <div class="tml tml-login" id="theme-my-login1">
                 <form name="loginform" id="loginform1" action="/home/login/property/murera-magomano-bookings/Jawaki%20Bookings6/?instance=1" method="post">
@@ -357,7 +579,7 @@
                 </ul>
             </div>
         </aside>
-    </div><!-- #secondary -->
+    </div>--><!-- #secondary -->
 </div>
 <!-- #content -->
 

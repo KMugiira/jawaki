@@ -140,7 +140,7 @@
     <script type='text/javascript' src='{{asset('asset/js/wpbs.js')}}'></script>
     <script type='text/javascript' src='{{asset('asset/js/custom-select.js')}}'></script>
     <script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.9.5'></script>
-    <script type='text/javascript' src='{{asset('asset/js/core.min.js')}}></script>
+    <script type='text/javascript' src='{{asset('asset/js/core.min.js')}}'></script>
     <script type='text/javascript' src='{{asset('asset/js/jquery/ui/widget.min.js')}}'></script>
     <script type='text/javascript' src='{{asset('asset/js/position.min.js')}}'></script>
     <script type='text/javascript' src='{{asset('asset/js/mouse.min.js')}}'></script>

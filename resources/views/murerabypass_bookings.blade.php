@@ -284,15 +284,13 @@
                             <header class="entry-header">
                                 <h1 class="title-post entry-title">Murera Bypass Bookings</h1>	</header><!-- .entry-header -->
 
-                            <div class="entry-content">
                                 <div class="row">
-                                    <img src="{{asset('asset/images/IMG-20180421-WA0002.jpg')}}" alt="Plot Layout" width="400" height="200">
+                                    <img src="{{asset('asset/images/2018/03/IMG_5427.jpg')}}" alt="Plot Layout" width="400" height="200">
                                 </div>
-                                <p>&nbsp;</p>
                                 <article id="post-727" class="post-727 event type-event status-publish has-post-thumbnail hentry event-categories-booking event-categories-buying">
                                     <div class="entry-content">
                                         <p><strong>Location</strong><br />
-                                            <a href="http://jawakiproperty.com/locations/murera-magomano/">Murera Magomano</a></p>
+                                            <a href="http://jawakiproperty.com/locations/murera-magomano/">Murera Bypass</a></p>
                                         <p><strong>Categories</strong></p>
                                         <ul class="event-categories">
                                             <li><a href="http://jawakiproperty.com/events/categories/booking/">Booking</a></li>
